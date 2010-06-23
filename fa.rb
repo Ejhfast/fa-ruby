@@ -1,16 +1,13 @@
 require 'pp'
 
-def myrand x
-	rand(x+1)
-end
-
 def build_random_automata over_lang, max_states, values
-	state_num = myrand max_states
+	state_num = (rand max_states) 
 	(0..state_num).map{|cur_state|
 		value = values[(rand values.size)]
-		num_edges = (myrand over_lang)
+		num_edges = (rand over_lang)
 		r_vals = (0..over_lang).sort_by{|x| (rand)}
-		[value,(0..num_edges).map{|x| [r_vals[x], (myrand state_num)] }]
+		# +1 bwlow, as rand 0 -> 0.001 to .99
+		[value,(0..num_edges).map{|x| [r_vals[x], (rand (state_num+1))] }]
 	}
 end
 
