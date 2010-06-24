@@ -29,6 +29,14 @@ def sumlist auto
 	score
 end
 
+def is_even x
+	listmax = 5
+	probs = (1..50).map{|x| (0..(rand listmax)).map{|y| rand 10}}
+	answrs = probs.map{|x| x.join.to_i % 2 == 0}
+	
+end
+
+
 def tourney_select pop_list
 		c1 = rand pop_list.size
 		c2 = rand pop_list.size
