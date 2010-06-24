@@ -4,10 +4,9 @@ def build_random_automata over_lang, max_states, values
 	state_num = (rand max_states) 
 	(0..state_num).map{|cur_state|
 		value = values[(rand values.size)]
-		num_edges = (rand over_lang)
-		r_vals = (0..over_lang).sort_by{|x| (rand)}
+		num_edges = over_lang.map{|x| if (rand 2) == 1 ; x ; else ; nil end}.compact
 		# +1 bwlow, as rand 0 -> 0.001 to .99
-		[value,(0..num_edges).map{|x| [r_vals[x], (rand (state_num+1))] }]
+		[value,num_edges.map{|x| [x, (rand (state_num+1))] }]
 	}
 end
 
@@ -71,7 +70,7 @@ def mutate_automata auto, over_lang, max_states, values
 			#puts "\tChanging a state transition"
 			edges = auto[select_state][1]
 			if edges.size == 0
-				#puts "\t\tTrying again"
+				puts "\t\tTrying again"
 				mutate_automata auto, over_lang, max_states, values # Cannot make a change, try again
 			else
 				pick_edge = rand edges.size
@@ -83,8 +82,8 @@ def mutate_automata auto, over_lang, max_states, values
 					cannot_use = edges.map{|x| x[0]}
 					not_finished = true
 					change_to = 0
-					if edges.size != over_lang 
-						possible = (0..over_lang).to_a
+					if edges.size != over_lang.size 
+						possible = over_lang
 						doable = possible - cannot_use
 						change_to = doable.sort_by{|x| (rand)}[0]
 						auto[select_state][1][pick_edge][0] = change_to
@@ -94,7 +93,14 @@ def mutate_automata auto, over_lang, max_states, values
 					end
 				elsif s_or_t == 1 # change transition state
 					#puts "\t\tChanging transition destination"
-					new_s_val = rand max_states
+					des = auto[select_state][1][pick_edge][1]
+					if auto.size == 1
+						mutate_automata auto, over_lang, max_states, values
+					elsif des == auto.size
+						new_s_val = des - 1
+					else
+						new_s_val = des + 1
+					end
 					auto[select_state][1][pick_edge][1] = new_s_val	
 				end
 			end
@@ -135,8 +141,11 @@ end
 #pp a
 #display_automata a
 #(0..1000).each do
-#	a = (build_random_automata 4, 4, [1,0])
+#	puts "Next:\n"
+#	a = (build_random_automata ["C","D"], 4, ["C","D"])
 #	pp a
-#	a = mutate_automata a, 4, 4, [1,0]
+#	puts (run_automata a, ["C","C","D","C"])
+#	a = mutate_automata a, ["D","C"], 4, ["C","D"]
 #	pp a
+#	puts (run_automata a, ["C","C","D","C"])
 #end

@@ -53,7 +53,7 @@ def avg pop_fits
 end
 
 maxsize = 20
-autolang = 20
+autolang = (0..10).to_a
 values = (0..10).to_a
 maxgen = 1000
 mut_rate = 50
