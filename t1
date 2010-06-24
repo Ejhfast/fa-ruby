@@ -1,0 +1,4006 @@
+States allowed: 20
+Over lang: 20
+On Values: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Max Fit: 30
+Gensize: 100
+MutRate: 50
+Generation 0:
+	Average Fitness: 2.74
+	Best Fitness 8
+	Average Fitness of Selected: 2.78787878787879
+Generation 1:
+	Average Fitness: 2.95
+	Best Fitness 11
+	Average Fitness of Selected: 2.77777777777778
+Generation 2:
+	Average Fitness: 2.62
+	Best Fitness 8
+	Average Fitness of Selected: 2.67676767676768
+Generation 3:
+	Average Fitness: 2.48
+	Best Fitness 7
+	Average Fitness of Selected: 2.94949494949495
+Generation 4:
+	Average Fitness: 2.84
+	Best Fitness 7
+	Average Fitness of Selected: 2.67676767676768
+Generation 5:
+	Average Fitness: 2.53
+	Best Fitness 8
+	Average Fitness of Selected: 3.03030303030303
+Generation 6:
+	Average Fitness: 2.79
+	Best Fitness 8
+	Average Fitness of Selected: 2.87878787878788
+Generation 7:
+	Average Fitness: 2.72
+	Best Fitness 7
+	Average Fitness of Selected: 2.47474747474747
+Generation 8:
+	Average Fitness: 2.76
+	Best Fitness 7
+	Average Fitness of Selected: 2.7979797979798
+Generation 9:
+	Average Fitness: 2.91
+	Best Fitness 10
+	Average Fitness of Selected: 2.82828282828283
+Generation 10:
+	Average Fitness: 2.99
+	Best Fitness 9
+	Average Fitness of Selected: 2.83838383838384
+Generation 11:
+	Average Fitness: 2.99
+	Best Fitness 8
+	Average Fitness of Selected: 3.25252525252525
+Generation 12:
+	Average Fitness: 2.69
+	Best Fitness 8
+	Average Fitness of Selected: 2.81818181818182
+Generation 13:
+	Average Fitness: 2.81
+	Best Fitness 10
+	Average Fitness of Selected: 2.95959595959596
+Generation 14:
+	Average Fitness: 2.77
+	Best Fitness 8
+	Average Fitness of Selected: 2.78787878787879
+Generation 15:
+	Average Fitness: 2.5
+	Best Fitness 7
+	Average Fitness of Selected: 2.74747474747475
+Generation 16:
+	Average Fitness: 2.65
+	Best Fitness 8
+	Average Fitness of Selected: 3.13131313131313
+Generation 17:
+	Average Fitness: 2.79
+	Best Fitness 8
+	Average Fitness of Selected: 2.90909090909091
+Generation 18:
+	Average Fitness: 3.0
+	Best Fitness 8
+	Average Fitness of Selected: 2.94949494949495
+Generation 19:
+	Average Fitness: 2.88
+	Best Fitness 10
+	Average Fitness of Selected: 3.03030303030303
+Generation 20:
+	Average Fitness: 2.81
+	Best Fitness 8
+	Average Fitness of Selected: 3.08080808080808
+Generation 21:
+	Average Fitness: 2.93
+	Best Fitness 8
+	Average Fitness of Selected: 2.92929292929293
+Generation 22:
+	Average Fitness: 2.83
+	Best Fitness 10
+	Average Fitness of Selected: 2.88888888888889
+Generation 23:
+	Average Fitness: 2.9
+	Best Fitness 8
+	Average Fitness of Selected: 2.65656565656566
+Generation 24:
+	Average Fitness: 2.79
+	Best Fitness 8
+	Average Fitness of Selected: 2.52525252525253
+Generation 25:
+	Average Fitness: 2.5
+	Best Fitness 8
+	Average Fitness of Selected: 2.68686868686869
+Generation 26:
+	Average Fitness: 3.1
+	Best Fitness 10
+	Average Fitness of Selected: 2.74747474747475
+Generation 27:
+	Average Fitness: 2.76
+	Best Fitness 10
+	Average Fitness of Selected: 2.96969696969697
+Generation 28:
+	Average Fitness: 2.79
+	Best Fitness 8
+	Average Fitness of Selected: 2.68686868686869
+Generation 29:
+	Average Fitness: 2.58
+	Best Fitness 7
+	Average Fitness of Selected: 2.7979797979798
+Generation 30:
+	Average Fitness: 2.8
+	Best Fitness 7
+	Average Fitness of Selected: 2.7979797979798
+Generation 31:
+	Average Fitness: 2.53
+	Best Fitness 8
+	Average Fitness of Selected: 2.6969696969697
+Generation 32:
+	Average Fitness: 2.87
+	Best Fitness 7
+	Average Fitness of Selected: 2.86868686868687
+Generation 33:
+	Average Fitness: 2.84
+	Best Fitness 7
+	Average Fitness of Selected: 2.88888888888889
+Generation 34:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.88888888888889
+Generation 35:
+	Average Fitness: 2.54
+	Best Fitness 6
+	Average Fitness of Selected: 2.55555555555556
+Generation 36:
+	Average Fitness: 2.84
+	Best Fitness 8
+	Average Fitness of Selected: 2.68686868686869
+Generation 37:
+	Average Fitness: 2.89
+	Best Fitness 10
+	Average Fitness of Selected: 2.80808080808081
+Generation 38:
+	Average Fitness: 2.81
+	Best Fitness 7
+	Average Fitness of Selected: 2.86868686868687
+Generation 39:
+	Average Fitness: 2.71
+	Best Fitness 7
+	Average Fitness of Selected: 2.96969696969697
+Generation 40:
+	Average Fitness: 2.64
+	Best Fitness 8
+	Average Fitness of Selected: 2.67676767676768
+Generation 41:
+	Average Fitness: 2.82
+	Best Fitness 8
+	Average Fitness of Selected: 2.58585858585859
+Generation 42:
+	Average Fitness: 2.5
+	Best Fitness 8
+	Average Fitness of Selected: 2.65656565656566
+Generation 43:
+	Average Fitness: 2.92
+	Best Fitness 10
+	Average Fitness of Selected: 2.97979797979798
+Generation 44:
+	Average Fitness: 2.64
+	Best Fitness 7
+	Average Fitness of Selected: 2.64646464646465
+Generation 45:
+	Average Fitness: 2.73
+	Best Fitness 8
+	Average Fitness of Selected: 2.86868686868687
+Generation 46:
+	Average Fitness: 2.7
+	Best Fitness 7
+	Average Fitness of Selected: 2.92929292929293
+Generation 47:
+	Average Fitness: 2.84
+	Best Fitness 8
+	Average Fitness of Selected: 2.64646464646465
+Generation 48:
+	Average Fitness: 2.74
+	Best Fitness 6
+	Average Fitness of Selected: 2.97979797979798
+Generation 49:
+	Average Fitness: 3.08
+	Best Fitness 8
+	Average Fitness of Selected: 2.61616161616162
+Generation 50:
+	Average Fitness: 2.53
+	Best Fitness 12
+	Average Fitness of Selected: 3.28282828282828
+Generation 51:
+	Average Fitness: 2.85
+	Best Fitness 7
+	Average Fitness of Selected: 2.8989898989899
+Generation 52:
+	Average Fitness: 2.6
+	Best Fitness 7
+	Average Fitness of Selected: 2.8989898989899
+Generation 53:
+	Average Fitness: 2.7
+	Best Fitness 7
+	Average Fitness of Selected: 2.7979797979798
+Generation 54:
+	Average Fitness: 2.74
+	Best Fitness 9
+	Average Fitness of Selected: 2.78787878787879
+Generation 55:
+	Average Fitness: 2.63
+	Best Fitness 8
+	Average Fitness of Selected: 2.93939393939394
+Generation 56:
+	Average Fitness: 3.12
+	Best Fitness 9
+	Average Fitness of Selected: 2.82828282828283
+Generation 57:
+	Average Fitness: 2.86
+	Best Fitness 8
+	Average Fitness of Selected: 3.02020202020202
+Generation 58:
+	Average Fitness: 2.64
+	Best Fitness 8
+	Average Fitness of Selected: 2.81818181818182
+Generation 59:
+	Average Fitness: 2.9
+	Best Fitness 7
+	Average Fitness of Selected: 2.46464646464646
+Generation 60:
+	Average Fitness: 2.52
+	Best Fitness 7
+	Average Fitness of Selected: 2.68686868686869
+Generation 61:
+	Average Fitness: 2.92
+	Best Fitness 10
+	Average Fitness of Selected: 2.71717171717172
+Generation 62:
+	Average Fitness: 2.64
+	Best Fitness 8
+	Average Fitness of Selected: 2.66666666666667
+Generation 63:
+	Average Fitness: 2.71
+	Best Fitness 8
+	Average Fitness of Selected: 2.74747474747475
+Generation 64:
+	Average Fitness: 3.08
+	Best Fitness 10
+	Average Fitness of Selected: 2.77777777777778
+Generation 65:
+	Average Fitness: 2.65
+	Best Fitness 8
+	Average Fitness of Selected: 2.78787878787879
+Generation 66:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 3.03030303030303
+Generation 67:
+	Average Fitness: 2.89
+	Best Fitness 8
+	Average Fitness of Selected: 3.2020202020202
+Generation 68:
+	Average Fitness: 3.16
+	Best Fitness 7
+	Average Fitness of Selected: 2.75757575757576
+Generation 69:
+	Average Fitness: 2.75
+	Best Fitness 9
+	Average Fitness of Selected: 3.0
+Generation 70:
+	Average Fitness: 2.7
+	Best Fitness 7
+	Average Fitness of Selected: 3.35353535353535
+Generation 71:
+	Average Fitness: 2.84
+	Best Fitness 7
+	Average Fitness of Selected: 2.91919191919192
+Generation 72:
+	Average Fitness: 2.66
+	Best Fitness 7
+	Average Fitness of Selected: 3.13131313131313
+Generation 73:
+	Average Fitness: 2.67
+	Best Fitness 8
+	Average Fitness of Selected: 3.04040404040404
+Generation 74:
+	Average Fitness: 2.69
+	Best Fitness 7
+	Average Fitness of Selected: 2.97979797979798
+Generation 75:
+	Average Fitness: 2.7
+	Best Fitness 8
+	Average Fitness of Selected: 3.0
+Generation 76:
+	Average Fitness: 2.91
+	Best Fitness 7
+	Average Fitness of Selected: 2.92929292929293
+Generation 77:
+	Average Fitness: 2.83
+	Best Fitness 7
+	Average Fitness of Selected: 3.2020202020202
+Generation 78:
+	Average Fitness: 3.26
+	Best Fitness 8
+	Average Fitness of Selected: 2.98989898989899
+Generation 79:
+	Average Fitness: 3.04
+	Best Fitness 8
+	Average Fitness of Selected: 2.64646464646465
+Generation 80:
+	Average Fitness: 2.43
+	Best Fitness 7
+	Average Fitness of Selected: 2.92929292929293
+Generation 81:
+	Average Fitness: 3.02
+	Best Fitness 7
+	Average Fitness of Selected: 3.07070707070707
+Generation 82:
+	Average Fitness: 2.76
+	Best Fitness 7
+	Average Fitness of Selected: 3.06060606060606
+Generation 83:
+	Average Fitness: 2.66
+	Best Fitness 8
+	Average Fitness of Selected: 2.73737373737374
+Generation 84:
+	Average Fitness: 2.76
+	Best Fitness 8
+	Average Fitness of Selected: 2.8989898989899
+Generation 85:
+	Average Fitness: 2.84
+	Best Fitness 8
+	Average Fitness of Selected: 2.95959595959596
+Generation 86:
+	Average Fitness: 3.08
+	Best Fitness 9
+	Average Fitness of Selected: 2.8989898989899
+Generation 87:
+	Average Fitness: 2.66
+	Best Fitness 7
+	Average Fitness of Selected: 2.64646464646465
+Generation 88:
+	Average Fitness: 2.93
+	Best Fitness 7
+	Average Fitness of Selected: 2.71717171717172
+Generation 89:
+	Average Fitness: 2.92
+	Best Fitness 7
+	Average Fitness of Selected: 2.90909090909091
+Generation 90:
+	Average Fitness: 2.71
+	Best Fitness 8
+	Average Fitness of Selected: 2.74747474747475
+Generation 91:
+	Average Fitness: 2.81
+	Best Fitness 8
+	Average Fitness of Selected: 2.95959595959596
+Generation 92:
+	Average Fitness: 2.98
+	Best Fitness 10
+	Average Fitness of Selected: 2.67676767676768
+Generation 93:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.98989898989899
+Generation 94:
+	Average Fitness: 2.9
+	Best Fitness 8
+	Average Fitness of Selected: 2.93939393939394
+Generation 95:
+	Average Fitness: 2.7
+	Best Fitness 7
+	Average Fitness of Selected: 2.85858585858586
+Generation 96:
+	Average Fitness: 2.63
+	Best Fitness 8
+	Average Fitness of Selected: 2.85858585858586
+Generation 97:
+	Average Fitness: 2.87
+	Best Fitness 9
+	Average Fitness of Selected: 2.90909090909091
+Generation 98:
+	Average Fitness: 2.64
+	Best Fitness 7
+	Average Fitness of Selected: 2.93939393939394
+Generation 99:
+	Average Fitness: 2.71
+	Best Fitness 8
+	Average Fitness of Selected: 2.81818181818182
+Generation 100:
+	Average Fitness: 2.71
+	Best Fitness 7
+	Average Fitness of Selected: 2.73737373737374
+Generation 101:
+	Average Fitness: 2.59
+	Best Fitness 9
+	Average Fitness of Selected: 2.56565656565657
+Generation 102:
+	Average Fitness: 2.6
+	Best Fitness 10
+	Average Fitness of Selected: 2.6969696969697
+Generation 103:
+	Average Fitness: 2.46
+	Best Fitness 7
+	Average Fitness of Selected: 2.58585858585859
+Generation 104:
+	Average Fitness: 2.77
+	Best Fitness 7
+	Average Fitness of Selected: 3.19191919191919
+Generation 105:
+	Average Fitness: 2.68
+	Best Fitness 8
+	Average Fitness of Selected: 3.16161616161616
+Generation 106:
+	Average Fitness: 2.8
+	Best Fitness 8
+	Average Fitness of Selected: 2.6969696969697
+Generation 107:
+	Average Fitness: 2.9
+	Best Fitness 9
+	Average Fitness of Selected: 2.97979797979798
+Generation 108:
+	Average Fitness: 2.64
+	Best Fitness 10
+	Average Fitness of Selected: 3.1010101010101
+Generation 109:
+	Average Fitness: 2.78
+	Best Fitness 8
+	Average Fitness of Selected: 3.0
+Generation 110:
+	Average Fitness: 2.63
+	Best Fitness 9
+	Average Fitness of Selected: 2.71717171717172
+Generation 111:
+	Average Fitness: 2.8
+	Best Fitness 7
+	Average Fitness of Selected: 2.74747474747475
+Generation 112:
+	Average Fitness: 2.95
+	Best Fitness 7
+	Average Fitness of Selected: 3.06060606060606
+Generation 113:
+	Average Fitness: 2.97
+	Best Fitness 7
+	Average Fitness of Selected: 2.54545454545455
+Generation 114:
+	Average Fitness: 2.75
+	Best Fitness 8
+	Average Fitness of Selected: 2.90909090909091
+Generation 115:
+	Average Fitness: 3.16
+	Best Fitness 10
+	Average Fitness of Selected: 2.72727272727273
+Generation 116:
+	Average Fitness: 2.59
+	Best Fitness 7
+	Average Fitness of Selected: 2.72727272727273
+Generation 117:
+	Average Fitness: 2.68
+	Best Fitness 8
+	Average Fitness of Selected: 2.67676767676768
+Generation 118:
+	Average Fitness: 2.52
+	Best Fitness 7
+	Average Fitness of Selected: 2.45454545454545
+Generation 119:
+	Average Fitness: 2.77
+	Best Fitness 7
+	Average Fitness of Selected: 2.65656565656566
+Generation 120:
+	Average Fitness: 2.83
+	Best Fitness 8
+	Average Fitness of Selected: 3.09090909090909
+Generation 121:
+	Average Fitness: 2.61
+	Best Fitness 7
+	Average Fitness of Selected: 2.86868686868687
+Generation 122:
+	Average Fitness: 2.85
+	Best Fitness 6
+	Average Fitness of Selected: 3.04040404040404
+Generation 123:
+	Average Fitness: 2.72
+	Best Fitness 7
+	Average Fitness of Selected: 2.75757575757576
+Generation 124:
+	Average Fitness: 2.84
+	Best Fitness 8
+	Average Fitness of Selected: 2.8989898989899
+Generation 125:
+	Average Fitness: 2.84
+	Best Fitness 8
+	Average Fitness of Selected: 2.49494949494949
+Generation 126:
+	Average Fitness: 2.51
+	Best Fitness 7
+	Average Fitness of Selected: 2.74747474747475
+Generation 127:
+	Average Fitness: 2.7
+	Best Fitness 7
+	Average Fitness of Selected: 3.06060606060606
+Generation 128:
+	Average Fitness: 2.8
+	Best Fitness 7
+	Average Fitness of Selected: 2.93939393939394
+Generation 129:
+	Average Fitness: 3.02
+	Best Fitness 8
+	Average Fitness of Selected: 2.62626262626263
+Generation 130:
+	Average Fitness: 2.76
+	Best Fitness 9
+	Average Fitness of Selected: 2.96969696969697
+Generation 131:
+	Average Fitness: 2.93
+	Best Fitness 7
+	Average Fitness of Selected: 3.01010101010101
+Generation 132:
+	Average Fitness: 2.83
+	Best Fitness 6
+	Average Fitness of Selected: 2.94949494949495
+Generation 133:
+	Average Fitness: 2.85
+	Best Fitness 8
+	Average Fitness of Selected: 2.78787878787879
+Generation 134:
+	Average Fitness: 2.98
+	Best Fitness 7
+	Average Fitness of Selected: 2.70707070707071
+Generation 135:
+	Average Fitness: 2.76
+	Best Fitness 10
+	Average Fitness of Selected: 2.53535353535354
+Generation 136:
+	Average Fitness: 2.99
+	Best Fitness 9
+	Average Fitness of Selected: 2.86868686868687
+Generation 137:
+	Average Fitness: 2.57
+	Best Fitness 6
+	Average Fitness of Selected: 2.74747474747475
+Generation 138:
+	Average Fitness: 2.69
+	Best Fitness 7
+	Average Fitness of Selected: 2.57575757575758
+Generation 139:
+	Average Fitness: 2.73
+	Best Fitness 9
+	Average Fitness of Selected: 2.55555555555556
+Generation 140:
+	Average Fitness: 2.72
+	Best Fitness 7
+	Average Fitness of Selected: 2.49494949494949
+Generation 141:
+	Average Fitness: 2.98
+	Best Fitness 9
+	Average Fitness of Selected: 2.72727272727273
+Generation 142:
+	Average Fitness: 2.72
+	Best Fitness 7
+	Average Fitness of Selected: 3.0
+Generation 143:
+	Average Fitness: 2.64
+	Best Fitness 7
+	Average Fitness of Selected: 2.76767676767677
+Generation 144:
+	Average Fitness: 2.83
+	Best Fitness 7
+	Average Fitness of Selected: 3.3030303030303
+Generation 145:
+	Average Fitness: 3.06
+	Best Fitness 8
+	Average Fitness of Selected: 3.31313131313131
+Generation 146:
+	Average Fitness: 2.82
+	Best Fitness 8
+	Average Fitness of Selected: 2.58585858585859
+Generation 147:
+	Average Fitness: 3.12
+	Best Fitness 7
+	Average Fitness of Selected: 2.8989898989899
+Generation 148:
+	Average Fitness: 2.51
+	Best Fitness 7
+	Average Fitness of Selected: 2.67676767676768
+Generation 149:
+	Average Fitness: 2.52
+	Best Fitness 6
+	Average Fitness of Selected: 2.53535353535354
+Generation 150:
+	Average Fitness: 2.4
+	Best Fitness 7
+	Average Fitness of Selected: 2.68686868686869
+Generation 151:
+	Average Fitness: 2.67
+	Best Fitness 9
+	Average Fitness of Selected: 2.95959595959596
+Generation 152:
+	Average Fitness: 2.86
+	Best Fitness 9
+	Average Fitness of Selected: 2.70707070707071
+Generation 153:
+	Average Fitness: 2.52
+	Best Fitness 7
+	Average Fitness of Selected: 2.55555555555556
+Generation 154:
+	Average Fitness: 2.46
+	Best Fitness 7
+	Average Fitness of Selected: 2.56565656565657
+Generation 155:
+	Average Fitness: 2.45
+	Best Fitness 6
+	Average Fitness of Selected: 2.73737373737374
+Generation 156:
+	Average Fitness: 2.54
+	Best Fitness 7
+	Average Fitness of Selected: 2.64646464646465
+Generation 157:
+	Average Fitness: 2.66
+	Best Fitness 9
+	Average Fitness of Selected: 3.07070707070707
+Generation 158:
+	Average Fitness: 3.06
+	Best Fitness 8
+	Average Fitness of Selected: 2.82828282828283
+Generation 159:
+	Average Fitness: 2.73
+	Best Fitness 10
+	Average Fitness of Selected: 2.62626262626263
+Generation 160:
+	Average Fitness: 2.56
+	Best Fitness 7
+	Average Fitness of Selected: 2.80808080808081
+Generation 161:
+	Average Fitness: 2.73
+	Best Fitness 10
+	Average Fitness of Selected: 3.21212121212121
+Generation 162:
+	Average Fitness: 2.69
+	Best Fitness 9
+	Average Fitness of Selected: 2.52525252525253
+Generation 163:
+	Average Fitness: 2.67
+	Best Fitness 7
+	Average Fitness of Selected: 2.73737373737374
+Generation 164:
+	Average Fitness: 2.88
+	Best Fitness 7
+	Average Fitness of Selected: 2.47474747474747
+Generation 165:
+	Average Fitness: 2.61
+	Best Fitness 7
+	Average Fitness of Selected: 2.81818181818182
+Generation 166:
+	Average Fitness: 2.61
+	Best Fitness 7
+	Average Fitness of Selected: 2.62626262626263
+Generation 167:
+	Average Fitness: 2.62
+	Best Fitness 8
+	Average Fitness of Selected: 2.93939393939394
+Generation 168:
+	Average Fitness: 2.6
+	Best Fitness 9
+	Average Fitness of Selected: 2.7979797979798
+Generation 169:
+	Average Fitness: 3.06
+	Best Fitness 9
+	Average Fitness of Selected: 2.91919191919192
+Generation 170:
+	Average Fitness: 2.71
+	Best Fitness 6
+	Average Fitness of Selected: 2.6969696969697
+Generation 171:
+	Average Fitness: 2.47
+	Best Fitness 8
+	Average Fitness of Selected: 2.71717171717172
+Generation 172:
+	Average Fitness: 2.66
+	Best Fitness 7
+	Average Fitness of Selected: 2.6969696969697
+Generation 173:
+	Average Fitness: 2.63
+	Best Fitness 7
+	Average Fitness of Selected: 2.96969696969697
+Generation 174:
+	Average Fitness: 2.83
+	Best Fitness 8
+	Average Fitness of Selected: 2.47474747474747
+Generation 175:
+	Average Fitness: 2.44
+	Best Fitness 6
+	Average Fitness of Selected: 2.90909090909091
+Generation 176:
+	Average Fitness: 2.72
+	Best Fitness 6
+	Average Fitness of Selected: 3.37373737373737
+Generation 177:
+	Average Fitness: 3.06
+	Best Fitness 8
+	Average Fitness of Selected: 2.8989898989899
+Generation 178:
+	Average Fitness: 2.92
+	Best Fitness 7
+	Average Fitness of Selected: 2.55555555555556
+Generation 179:
+	Average Fitness: 2.87
+	Best Fitness 6
+	Average Fitness of Selected: 2.60606060606061
+Generation 180:
+	Average Fitness: 2.65
+	Best Fitness 8
+	Average Fitness of Selected: 3.03030303030303
+Generation 181:
+	Average Fitness: 2.78
+	Best Fitness 9
+	Average Fitness of Selected: 3.0
+Generation 182:
+	Average Fitness: 2.59
+	Best Fitness 9
+	Average Fitness of Selected: 2.85858585858586
+Generation 183:
+	Average Fitness: 3.03
+	Best Fitness 9
+	Average Fitness of Selected: 2.87878787878788
+Generation 184:
+	Average Fitness: 2.77
+	Best Fitness 7
+	Average Fitness of Selected: 2.92929292929293
+Generation 185:
+	Average Fitness: 2.63
+	Best Fitness 7
+	Average Fitness of Selected: 2.66666666666667
+Generation 186:
+	Average Fitness: 2.92
+	Best Fitness 7
+	Average Fitness of Selected: 3.09090909090909
+Generation 187:
+	Average Fitness: 2.42
+	Best Fitness 8
+	Average Fitness of Selected: 3.08080808080808
+Generation 188:
+	Average Fitness: 2.94
+	Best Fitness 9
+	Average Fitness of Selected: 3.06060606060606
+Generation 189:
+	Average Fitness: 2.75
+	Best Fitness 7
+	Average Fitness of Selected: 2.87878787878788
+Generation 190:
+	Average Fitness: 2.83
+	Best Fitness 9
+	Average Fitness of Selected: 3.08080808080808
+Generation 191:
+	Average Fitness: 3.06
+	Best Fitness 8
+	Average Fitness of Selected: 2.71717171717172
+Generation 192:
+	Average Fitness: 3.05
+	Best Fitness 10
+	Average Fitness of Selected: 2.60606060606061
+Generation 193:
+	Average Fitness: 2.77
+	Best Fitness 7
+	Average Fitness of Selected: 2.98989898989899
+Generation 194:
+	Average Fitness: 2.52
+	Best Fitness 6
+	Average Fitness of Selected: 3.18181818181818
+Generation 195:
+	Average Fitness: 3.2
+	Best Fitness 8
+	Average Fitness of Selected: 2.98989898989899
+Generation 196:
+	Average Fitness: 2.59
+	Best Fitness 7
+	Average Fitness of Selected: 2.77777777777778
+Generation 197:
+	Average Fitness: 2.71
+	Best Fitness 8
+	Average Fitness of Selected: 2.67676767676768
+Generation 198:
+	Average Fitness: 2.71
+	Best Fitness 7
+	Average Fitness of Selected: 2.65656565656566
+Generation 199:
+	Average Fitness: 2.89
+	Best Fitness 7
+	Average Fitness of Selected: 2.66666666666667
+Generation 200:
+	Average Fitness: 2.61
+	Best Fitness 7
+	Average Fitness of Selected: 2.86868686868687
+Generation 201:
+	Average Fitness: 2.88
+	Best Fitness 7
+	Average Fitness of Selected: 2.77777777777778
+Generation 202:
+	Average Fitness: 2.6
+	Best Fitness 8
+	Average Fitness of Selected: 2.65656565656566
+Generation 203:
+	Average Fitness: 2.98
+	Best Fitness 8
+	Average Fitness of Selected: 2.74747474747475
+Generation 204:
+	Average Fitness: 2.96
+	Best Fitness 8
+	Average Fitness of Selected: 2.65656565656566
+Generation 205:
+	Average Fitness: 2.76
+	Best Fitness 8
+	Average Fitness of Selected: 2.86868686868687
+Generation 206:
+	Average Fitness: 2.98
+	Best Fitness 9
+	Average Fitness of Selected: 2.85858585858586
+Generation 207:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.70707070707071
+Generation 208:
+	Average Fitness: 2.93
+	Best Fitness 7
+	Average Fitness of Selected: 2.87878787878788
+Generation 209:
+	Average Fitness: 2.61
+	Best Fitness 7
+	Average Fitness of Selected: 2.60606060606061
+Generation 210:
+	Average Fitness: 2.51
+	Best Fitness 8
+	Average Fitness of Selected: 2.67676767676768
+Generation 211:
+	Average Fitness: 2.58
+	Best Fitness 7
+	Average Fitness of Selected: 2.83838383838384
+Generation 212:
+	Average Fitness: 2.8
+	Best Fitness 8
+	Average Fitness of Selected: 2.62626262626263
+Generation 213:
+	Average Fitness: 2.8
+	Best Fitness 7
+	Average Fitness of Selected: 2.49494949494949
+Generation 214:
+	Average Fitness: 2.59
+	Best Fitness 6
+	Average Fitness of Selected: 2.47474747474747
+Generation 215:
+	Average Fitness: 2.9
+	Best Fitness 8
+	Average Fitness of Selected: 2.81818181818182
+Generation 216:
+	Average Fitness: 2.82
+	Best Fitness 6
+	Average Fitness of Selected: 2.71717171717172
+Generation 217:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.50505050505051
+Generation 218:
+	Average Fitness: 2.81
+	Best Fitness 9
+	Average Fitness of Selected: 2.7979797979798
+Generation 219:
+	Average Fitness: 2.68
+	Best Fitness 10
+	Average Fitness of Selected: 2.45454545454545
+Generation 220:
+	Average Fitness: 2.99
+	Best Fitness 8
+	Average Fitness of Selected: 2.75757575757576
+Generation 221:
+	Average Fitness: 2.76
+	Best Fitness 9
+	Average Fitness of Selected: 2.4040404040404
+Generation 222:
+	Average Fitness: 2.5
+	Best Fitness 10
+	Average Fitness of Selected: 2.6969696969697
+Generation 223:
+	Average Fitness: 2.62
+	Best Fitness 10
+	Average Fitness of Selected: 2.60606060606061
+Generation 224:
+	Average Fitness: 2.85
+	Best Fitness 7
+	Average Fitness of Selected: 2.98989898989899
+Generation 225:
+	Average Fitness: 2.85
+	Best Fitness 8
+	Average Fitness of Selected: 3.14141414141414
+Generation 226:
+	Average Fitness: 2.63
+	Best Fitness 7
+	Average Fitness of Selected: 2.84848484848485
+Generation 227:
+	Average Fitness: 2.61
+	Best Fitness 6
+	Average Fitness of Selected: 2.81818181818182
+Generation 228:
+	Average Fitness: 2.74
+	Best Fitness 8
+	Average Fitness of Selected: 2.98989898989899
+Generation 229:
+	Average Fitness: 3.03
+	Best Fitness 9
+	Average Fitness of Selected: 2.93939393939394
+Generation 230:
+	Average Fitness: 3.0
+	Best Fitness 10
+	Average Fitness of Selected: 2.88888888888889
+Generation 231:
+	Average Fitness: 2.8
+	Best Fitness 7
+	Average Fitness of Selected: 2.68686868686869
+Generation 232:
+	Average Fitness: 2.57
+	Best Fitness 7
+	Average Fitness of Selected: 2.92929292929293
+Generation 233:
+	Average Fitness: 2.86
+	Best Fitness 7
+	Average Fitness of Selected: 3.14141414141414
+Generation 234:
+	Average Fitness: 3.09
+	Best Fitness 8
+	Average Fitness of Selected: 3.12121212121212
+Generation 235:
+	Average Fitness: 3.02
+	Best Fitness 7
+	Average Fitness of Selected: 3.07070707070707
+Generation 236:
+	Average Fitness: 3.08
+	Best Fitness 8
+	Average Fitness of Selected: 3.15151515151515
+Generation 237:
+	Average Fitness: 2.89
+	Best Fitness 8
+	Average Fitness of Selected: 2.73737373737374
+Generation 238:
+	Average Fitness: 2.55
+	Best Fitness 9
+	Average Fitness of Selected: 2.55555555555556
+Generation 239:
+	Average Fitness: 2.84
+	Best Fitness 9
+	Average Fitness of Selected: 2.81818181818182
+Generation 240:
+	Average Fitness: 2.83
+	Best Fitness 6
+	Average Fitness of Selected: 2.92929292929293
+Generation 241:
+	Average Fitness: 2.41
+	Best Fitness 8
+	Average Fitness of Selected: 2.6969696969697
+Generation 242:
+	Average Fitness: 2.78
+	Best Fitness 10
+	Average Fitness of Selected: 2.68686868686869
+Generation 243:
+	Average Fitness: 2.69
+	Best Fitness 9
+	Average Fitness of Selected: 2.74747474747475
+Generation 244:
+	Average Fitness: 2.89
+	Best Fitness 7
+	Average Fitness of Selected: 2.91919191919192
+Generation 245:
+	Average Fitness: 2.79
+	Best Fitness 8
+	Average Fitness of Selected: 2.83838383838384
+Generation 246:
+	Average Fitness: 2.59
+	Best Fitness 8
+	Average Fitness of Selected: 2.70707070707071
+Generation 247:
+	Average Fitness: 2.84
+	Best Fitness 7
+	Average Fitness of Selected: 2.90909090909091
+Generation 248:
+	Average Fitness: 3.12
+	Best Fitness 7
+	Average Fitness of Selected: 2.87878787878788
+Generation 249:
+	Average Fitness: 2.97
+	Best Fitness 7
+	Average Fitness of Selected: 2.92929292929293
+Generation 250:
+	Average Fitness: 2.73
+	Best Fitness 9
+	Average Fitness of Selected: 2.90909090909091
+Generation 251:
+	Average Fitness: 2.86
+	Best Fitness 8
+	Average Fitness of Selected: 2.81818181818182
+Generation 252:
+	Average Fitness: 2.85
+	Best Fitness 8
+	Average Fitness of Selected: 3.11111111111111
+Generation 253:
+	Average Fitness: 2.8
+	Best Fitness 9
+	Average Fitness of Selected: 3.07070707070707
+Generation 254:
+	Average Fitness: 2.77
+	Best Fitness 8
+	Average Fitness of Selected: 2.81818181818182
+Generation 255:
+	Average Fitness: 2.78
+	Best Fitness 9
+	Average Fitness of Selected: 2.50505050505051
+Generation 256:
+	Average Fitness: 2.72
+	Best Fitness 7
+	Average Fitness of Selected: 2.74747474747475
+Generation 257:
+	Average Fitness: 3.11
+	Best Fitness 8
+	Average Fitness of Selected: 2.84848484848485
+Generation 258:
+	Average Fitness: 2.88
+	Best Fitness 7
+	Average Fitness of Selected: 2.78787878787879
+Generation 259:
+	Average Fitness: 2.65
+	Best Fitness 7
+	Average Fitness of Selected: 2.86868686868687
+Generation 260:
+	Average Fitness: 2.77
+	Best Fitness 8
+	Average Fitness of Selected: 2.48484848484848
+Generation 261:
+	Average Fitness: 2.76
+	Best Fitness 10
+	Average Fitness of Selected: 3.04040404040404
+Generation 262:
+	Average Fitness: 2.65
+	Best Fitness 7
+	Average Fitness of Selected: 2.90909090909091
+Generation 263:
+	Average Fitness: 2.9
+	Best Fitness 9
+	Average Fitness of Selected: 2.86868686868687
+Generation 264:
+	Average Fitness: 2.84
+	Best Fitness 10
+	Average Fitness of Selected: 2.84848484848485
+Generation 265:
+	Average Fitness: 2.89
+	Best Fitness 7
+	Average Fitness of Selected: 2.8989898989899
+Generation 266:
+	Average Fitness: 3.1
+	Best Fitness 8
+	Average Fitness of Selected: 2.94949494949495
+Generation 267:
+	Average Fitness: 2.46
+	Best Fitness 7
+	Average Fitness of Selected: 2.98989898989899
+Generation 268:
+	Average Fitness: 2.99
+	Best Fitness 9
+	Average Fitness of Selected: 2.43434343434343
+Generation 269:
+	Average Fitness: 2.73
+	Best Fitness 8
+	Average Fitness of Selected: 2.70707070707071
+Generation 270:
+	Average Fitness: 2.69
+	Best Fitness 7
+	Average Fitness of Selected: 2.61616161616162
+Generation 271:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.82828282828283
+Generation 272:
+	Average Fitness: 2.47
+	Best Fitness 9
+	Average Fitness of Selected: 2.58585858585859
+Generation 273:
+	Average Fitness: 2.51
+	Best Fitness 7
+	Average Fitness of Selected: 2.77777777777778
+Generation 274:
+	Average Fitness: 2.81
+	Best Fitness 8
+	Average Fitness of Selected: 2.58585858585859
+Generation 275:
+	Average Fitness: 2.76
+	Best Fitness 7
+	Average Fitness of Selected: 2.78787878787879
+Generation 276:
+	Average Fitness: 2.88
+	Best Fitness 9
+	Average Fitness of Selected: 2.53535353535354
+Generation 277:
+	Average Fitness: 2.53
+	Best Fitness 8
+	Average Fitness of Selected: 2.90909090909091
+Generation 278:
+	Average Fitness: 2.95
+	Best Fitness 9
+	Average Fitness of Selected: 3.05050505050505
+Generation 279:
+	Average Fitness: 2.9
+	Best Fitness 9
+	Average Fitness of Selected: 3.03030303030303
+Generation 280:
+	Average Fitness: 3.0
+	Best Fitness 7
+	Average Fitness of Selected: 2.72727272727273
+Generation 281:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.54545454545455
+Generation 282:
+	Average Fitness: 2.68
+	Best Fitness 9
+	Average Fitness of Selected: 2.86868686868687
+Generation 283:
+	Average Fitness: 2.73
+	Best Fitness 9
+	Average Fitness of Selected: 2.80808080808081
+Generation 284:
+	Average Fitness: 2.9
+	Best Fitness 7
+	Average Fitness of Selected: 3.0
+Generation 285:
+	Average Fitness: 3.02
+	Best Fitness 9
+	Average Fitness of Selected: 2.70707070707071
+Generation 286:
+	Average Fitness: 3.26
+	Best Fitness 10
+	Average Fitness of Selected: 2.7979797979798
+Generation 287:
+	Average Fitness: 2.6
+	Best Fitness 10
+	Average Fitness of Selected: 2.7979797979798
+Generation 288:
+	Average Fitness: 2.89
+	Best Fitness 8
+	Average Fitness of Selected: 2.76767676767677
+Generation 289:
+	Average Fitness: 2.62
+	Best Fitness 8
+	Average Fitness of Selected: 2.8989898989899
+Generation 290:
+	Average Fitness: 3.02
+	Best Fitness 8
+	Average Fitness of Selected: 2.7979797979798
+Generation 291:
+	Average Fitness: 2.86
+	Best Fitness 8
+	Average Fitness of Selected: 2.76767676767677
+Generation 292:
+	Average Fitness: 2.6
+	Best Fitness 7
+	Average Fitness of Selected: 2.73737373737374
+Generation 293:
+	Average Fitness: 2.56
+	Best Fitness 8
+	Average Fitness of Selected: 2.72727272727273
+Generation 294:
+	Average Fitness: 2.76
+	Best Fitness 9
+	Average Fitness of Selected: 2.48484848484848
+Generation 295:
+	Average Fitness: 2.7
+	Best Fitness 6
+	Average Fitness of Selected: 2.71717171717172
+Generation 296:
+	Average Fitness: 2.62
+	Best Fitness 8
+	Average Fitness of Selected: 2.91919191919192
+Generation 297:
+	Average Fitness: 3.12
+	Best Fitness 8
+	Average Fitness of Selected: 3.01010101010101
+Generation 298:
+	Average Fitness: 2.83
+	Best Fitness 9
+	Average Fitness of Selected: 2.86868686868687
+Generation 299:
+	Average Fitness: 2.47
+	Best Fitness 9
+	Average Fitness of Selected: 3.03030303030303
+Generation 300:
+	Average Fitness: 2.58
+	Best Fitness 7
+	Average Fitness of Selected: 2.50505050505051
+Generation 301:
+	Average Fitness: 2.72
+	Best Fitness 7
+	Average Fitness of Selected: 2.83838383838384
+Generation 302:
+	Average Fitness: 2.69
+	Best Fitness 8
+	Average Fitness of Selected: 2.76767676767677
+Generation 303:
+	Average Fitness: 2.44
+	Best Fitness 8
+	Average Fitness of Selected: 3.0
+Generation 304:
+	Average Fitness: 2.83
+	Best Fitness 8
+	Average Fitness of Selected: 2.83838383838384
+Generation 305:
+	Average Fitness: 2.93
+	Best Fitness 7
+	Average Fitness of Selected: 3.08080808080808
+Generation 306:
+	Average Fitness: 2.81
+	Best Fitness 8
+	Average Fitness of Selected: 2.93939393939394
+Generation 307:
+	Average Fitness: 2.82
+	Best Fitness 9
+	Average Fitness of Selected: 2.7979797979798
+Generation 308:
+	Average Fitness: 2.86
+	Best Fitness 7
+	Average Fitness of Selected: 2.90909090909091
+Generation 309:
+	Average Fitness: 2.78
+	Best Fitness 7
+	Average Fitness of Selected: 2.7979797979798
+Generation 310:
+	Average Fitness: 2.83
+	Best Fitness 8
+	Average Fitness of Selected: 2.8989898989899
+Generation 311:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.68686868686869
+Generation 312:
+	Average Fitness: 2.84
+	Best Fitness 7
+	Average Fitness of Selected: 2.97979797979798
+Generation 313:
+	Average Fitness: 3.12
+	Best Fitness 10
+	Average Fitness of Selected: 2.87878787878788
+Generation 314:
+	Average Fitness: 2.78
+	Best Fitness 7
+	Average Fitness of Selected: 3.15151515151515
+Generation 315:
+	Average Fitness: 2.8
+	Best Fitness 8
+	Average Fitness of Selected: 2.80808080808081
+Generation 316:
+	Average Fitness: 2.58
+	Best Fitness 6
+	Average Fitness of Selected: 2.72727272727273
+Generation 317:
+	Average Fitness: 2.87
+	Best Fitness 8
+	Average Fitness of Selected: 2.67676767676768
+Generation 318:
+	Average Fitness: 2.89
+	Best Fitness 8
+	Average Fitness of Selected: 2.81818181818182
+Generation 319:
+	Average Fitness: 3.0
+	Best Fitness 8
+	Average Fitness of Selected: 2.7979797979798
+Generation 320:
+	Average Fitness: 2.65
+	Best Fitness 8
+	Average Fitness of Selected: 2.83838383838384
+Generation 321:
+	Average Fitness: 2.99
+	Best Fitness 9
+	Average Fitness of Selected: 2.7979797979798
+Generation 322:
+	Average Fitness: 2.85
+	Best Fitness 6
+	Average Fitness of Selected: 2.5959595959596
+Generation 323:
+	Average Fitness: 2.9
+	Best Fitness 10
+	Average Fitness of Selected: 2.93939393939394
+Generation 324:
+	Average Fitness: 2.52
+	Best Fitness 7
+	Average Fitness of Selected: 2.87878787878788
+Generation 325:
+	Average Fitness: 2.82
+	Best Fitness 7
+	Average Fitness of Selected: 2.90909090909091
+Generation 326:
+	Average Fitness: 3.07
+	Best Fitness 9
+	Average Fitness of Selected: 2.77777777777778
+Generation 327:
+	Average Fitness: 2.73
+	Best Fitness 7
+	Average Fitness of Selected: 2.80808080808081
+Generation 328:
+	Average Fitness: 2.56
+	Best Fitness 7
+	Average Fitness of Selected: 2.82828282828283
+Generation 329:
+	Average Fitness: 2.9
+	Best Fitness 7
+	Average Fitness of Selected: 2.77777777777778
+Generation 330:
+	Average Fitness: 2.83
+	Best Fitness 7
+	Average Fitness of Selected: 2.70707070707071
+Generation 331:
+	Average Fitness: 2.6
+	Best Fitness 8
+	Average Fitness of Selected: 2.37373737373737
+Generation 332:
+	Average Fitness: 2.65
+	Best Fitness 7
+	Average Fitness of Selected: 2.85858585858586
+Generation 333:
+	Average Fitness: 2.7
+	Best Fitness 8
+	Average Fitness of Selected: 2.71717171717172
+Generation 334:
+	Average Fitness: 2.72
+	Best Fitness 8
+	Average Fitness of Selected: 2.75757575757576
+Generation 335:
+	Average Fitness: 2.66
+	Best Fitness 7
+	Average Fitness of Selected: 2.8989898989899
+Generation 336:
+	Average Fitness: 2.71
+	Best Fitness 6
+	Average Fitness of Selected: 2.88888888888889
+Generation 337:
+	Average Fitness: 2.9
+	Best Fitness 9
+	Average Fitness of Selected: 2.96969696969697
+Generation 338:
+	Average Fitness: 2.8
+	Best Fitness 7
+	Average Fitness of Selected: 2.72727272727273
+Generation 339:
+	Average Fitness: 2.7
+	Best Fitness 8
+	Average Fitness of Selected: 2.98989898989899
+Generation 340:
+	Average Fitness: 2.87
+	Best Fitness 10
+	Average Fitness of Selected: 2.92929292929293
+Generation 341:
+	Average Fitness: 2.77
+	Best Fitness 9
+	Average Fitness of Selected: 2.72727272727273
+Generation 342:
+	Average Fitness: 2.6
+	Best Fitness 9
+	Average Fitness of Selected: 2.4040404040404
+Generation 343:
+	Average Fitness: 2.82
+	Best Fitness 8
+	Average Fitness of Selected: 2.8989898989899
+Generation 344:
+	Average Fitness: 2.47
+	Best Fitness 8
+	Average Fitness of Selected: 2.86868686868687
+Generation 345:
+	Average Fitness: 2.87
+	Best Fitness 7
+	Average Fitness of Selected: 2.56565656565657
+Generation 346:
+	Average Fitness: 2.63
+	Best Fitness 7
+	Average Fitness of Selected: 2.70707070707071
+Generation 347:
+	Average Fitness: 2.84
+	Best Fitness 7
+	Average Fitness of Selected: 2.75757575757576
+Generation 348:
+	Average Fitness: 2.76
+	Best Fitness 8
+	Average Fitness of Selected: 2.66666666666667
+Generation 349:
+	Average Fitness: 2.93
+	Best Fitness 9
+	Average Fitness of Selected: 2.7979797979798
+Generation 350:
+	Average Fitness: 2.79
+	Best Fitness 7
+	Average Fitness of Selected: 3.13131313131313
+Generation 351:
+	Average Fitness: 2.8
+	Best Fitness 8
+	Average Fitness of Selected: 2.67676767676768
+Generation 352:
+	Average Fitness: 2.81
+	Best Fitness 8
+	Average Fitness of Selected: 2.78787878787879
+Generation 353:
+	Average Fitness: 2.72
+	Best Fitness 10
+	Average Fitness of Selected: 2.87878787878788
+Generation 354:
+	Average Fitness: 2.66
+	Best Fitness 10
+	Average Fitness of Selected: 2.85858585858586
+Generation 355:
+	Average Fitness: 2.96
+	Best Fitness 9
+	Average Fitness of Selected: 2.68686868686869
+Generation 356:
+	Average Fitness: 3.09
+	Best Fitness 9
+	Average Fitness of Selected: 3.08080808080808
+Generation 357:
+	Average Fitness: 2.76
+	Best Fitness 8
+	Average Fitness of Selected: 2.78787878787879
+Generation 358:
+	Average Fitness: 2.85
+	Best Fitness 10
+	Average Fitness of Selected: 2.64646464646465
+Generation 359:
+	Average Fitness: 2.79
+	Best Fitness 7
+	Average Fitness of Selected: 3.08080808080808
+Generation 360:
+	Average Fitness: 2.84
+	Best Fitness 7
+	Average Fitness of Selected: 2.80808080808081
+Generation 361:
+	Average Fitness: 2.97
+	Best Fitness 9
+	Average Fitness of Selected: 2.63636363636364
+Generation 362:
+	Average Fitness: 2.9
+	Best Fitness 7
+	Average Fitness of Selected: 2.6969696969697
+Generation 363:
+	Average Fitness: 2.87
+	Best Fitness 8
+	Average Fitness of Selected: 2.85858585858586
+Generation 364:
+	Average Fitness: 2.72
+	Best Fitness 7
+	Average Fitness of Selected: 2.80808080808081
+Generation 365:
+	Average Fitness: 2.95
+	Best Fitness 9
+	Average Fitness of Selected: 2.64646464646465
+Generation 366:
+	Average Fitness: 2.39
+	Best Fitness 7
+	Average Fitness of Selected: 2.80808080808081
+Generation 367:
+	Average Fitness: 2.76
+	Best Fitness 7
+	Average Fitness of Selected: 2.70707070707071
+Generation 368:
+	Average Fitness: 3.01
+	Best Fitness 7
+	Average Fitness of Selected: 2.93939393939394
+Generation 369:
+	Average Fitness: 2.94
+	Best Fitness 8
+	Average Fitness of Selected: 2.82828282828283
+Generation 370:
+	Average Fitness: 2.65
+	Best Fitness 9
+	Average Fitness of Selected: 2.64646464646465
+Generation 371:
+	Average Fitness: 2.99
+	Best Fitness 8
+	Average Fitness of Selected: 2.97979797979798
+Generation 372:
+	Average Fitness: 2.66
+	Best Fitness 8
+	Average Fitness of Selected: 2.50505050505051
+Generation 373:
+	Average Fitness: 2.71
+	Best Fitness 7
+	Average Fitness of Selected: 2.53535353535354
+Generation 374:
+	Average Fitness: 2.69
+	Best Fitness 10
+	Average Fitness of Selected: 2.71717171717172
+Generation 375:
+	Average Fitness: 2.96
+	Best Fitness 8
+	Average Fitness of Selected: 2.86868686868687
+Generation 376:
+	Average Fitness: 3.03
+	Best Fitness 9
+	Average Fitness of Selected: 2.76767676767677
+Generation 377:
+	Average Fitness: 2.64
+	Best Fitness 7
+	Average Fitness of Selected: 2.87878787878788
+Generation 378:
+	Average Fitness: 2.81
+	Best Fitness 10
+	Average Fitness of Selected: 2.70707070707071
+Generation 379:
+	Average Fitness: 2.71
+	Best Fitness 7
+	Average Fitness of Selected: 2.53535353535354
+Generation 380:
+	Average Fitness: 2.66
+	Best Fitness 7
+	Average Fitness of Selected: 2.71717171717172
+Generation 381:
+	Average Fitness: 2.82
+	Best Fitness 9
+	Average Fitness of Selected: 2.84848484848485
+Generation 382:
+	Average Fitness: 2.87
+	Best Fitness 7
+	Average Fitness of Selected: 2.72727272727273
+Generation 383:
+	Average Fitness: 2.66
+	Best Fitness 7
+	Average Fitness of Selected: 2.52525252525253
+Generation 384:
+	Average Fitness: 2.87
+	Best Fitness 10
+	Average Fitness of Selected: 2.39393939393939
+Generation 385:
+	Average Fitness: 2.49
+	Best Fitness 8
+	Average Fitness of Selected: 2.80808080808081
+Generation 386:
+	Average Fitness: 2.81
+	Best Fitness 10
+	Average Fitness of Selected: 2.70707070707071
+Generation 387:
+	Average Fitness: 2.57
+	Best Fitness 7
+	Average Fitness of Selected: 3.01010101010101
+Generation 388:
+	Average Fitness: 3.01
+	Best Fitness 8
+	Average Fitness of Selected: 3.03030303030303
+Generation 389:
+	Average Fitness: 3.06
+	Best Fitness 7
+	Average Fitness of Selected: 2.92929292929293
+Generation 390:
+	Average Fitness: 3.12
+	Best Fitness 8
+	Average Fitness of Selected: 2.88888888888889
+Generation 391:
+	Average Fitness: 2.55
+	Best Fitness 10
+	Average Fitness of Selected: 2.78787878787879
+Generation 392:
+	Average Fitness: 2.69
+	Best Fitness 8
+	Average Fitness of Selected: 2.78787878787879
+Generation 393:
+	Average Fitness: 2.63
+	Best Fitness 6
+	Average Fitness of Selected: 2.92929292929293
+Generation 394:
+	Average Fitness: 3.28
+	Best Fitness 9
+	Average Fitness of Selected: 2.36363636363636
+Generation 395:
+	Average Fitness: 2.63
+	Best Fitness 7
+	Average Fitness of Selected: 2.74747474747475
+Generation 396:
+	Average Fitness: 2.58
+	Best Fitness 7
+	Average Fitness of Selected: 2.84848484848485
+Generation 397:
+	Average Fitness: 2.41
+	Best Fitness 8
+	Average Fitness of Selected: 2.68686868686869
+Generation 398:
+	Average Fitness: 2.84
+	Best Fitness 7
+	Average Fitness of Selected: 2.78787878787879
+Generation 399:
+	Average Fitness: 2.83
+	Best Fitness 7
+	Average Fitness of Selected: 2.74747474747475
+Generation 400:
+	Average Fitness: 2.56
+	Best Fitness 7
+	Average Fitness of Selected: 2.85858585858586
+Generation 401:
+	Average Fitness: 2.99
+	Best Fitness 8
+	Average Fitness of Selected: 2.84848484848485
+Generation 402:
+	Average Fitness: 2.76
+	Best Fitness 7
+	Average Fitness of Selected: 2.5959595959596
+Generation 403:
+	Average Fitness: 2.54
+	Best Fitness 7
+	Average Fitness of Selected: 2.70707070707071
+Generation 404:
+	Average Fitness: 2.64
+	Best Fitness 8
+	Average Fitness of Selected: 2.63636363636364
+Generation 405:
+	Average Fitness: 2.91
+	Best Fitness 8
+	Average Fitness of Selected: 2.92929292929293
+Generation 406:
+	Average Fitness: 2.68
+	Best Fitness 7
+	Average Fitness of Selected: 2.71717171717172
+Generation 407:
+	Average Fitness: 2.53
+	Best Fitness 6
+	Average Fitness of Selected: 3.0
+Generation 408:
+	Average Fitness: 2.65
+	Best Fitness 7
+	Average Fitness of Selected: 2.78787878787879
+Generation 409:
+	Average Fitness: 2.86
+	Best Fitness 8
+	Average Fitness of Selected: 2.66666666666667
+Generation 410:
+	Average Fitness: 2.89
+	Best Fitness 7
+	Average Fitness of Selected: 2.42424242424242
+Generation 411:
+	Average Fitness: 2.8
+	Best Fitness 8
+	Average Fitness of Selected: 2.76767676767677
+Generation 412:
+	Average Fitness: 2.62
+	Best Fitness 8
+	Average Fitness of Selected: 2.57575757575758
+Generation 413:
+	Average Fitness: 3.03
+	Best Fitness 8
+	Average Fitness of Selected: 2.36363636363636
+Generation 414:
+	Average Fitness: 2.76
+	Best Fitness 8
+	Average Fitness of Selected: 3.07070707070707
+Generation 415:
+	Average Fitness: 2.89
+	Best Fitness 8
+	Average Fitness of Selected: 3.06060606060606
+Generation 416:
+	Average Fitness: 2.93
+	Best Fitness 8
+	Average Fitness of Selected: 2.94949494949495
+Generation 417:
+	Average Fitness: 3.48
+	Best Fitness 8
+	Average Fitness of Selected: 2.84848484848485
+Generation 418:
+	Average Fitness: 2.8
+	Best Fitness 9
+	Average Fitness of Selected: 2.66666666666667
+Generation 419:
+	Average Fitness: 2.94
+	Best Fitness 8
+	Average Fitness of Selected: 2.6969696969697
+Generation 420:
+	Average Fitness: 3.15
+	Best Fitness 10
+	Average Fitness of Selected: 2.77777777777778
+Generation 421:
+	Average Fitness: 2.57
+	Best Fitness 6
+	Average Fitness of Selected: 2.84848484848485
+Generation 422:
+	Average Fitness: 2.54
+	Best Fitness 9
+	Average Fitness of Selected: 2.66666666666667
+Generation 423:
+	Average Fitness: 2.73
+	Best Fitness 8
+	Average Fitness of Selected: 2.60606060606061
+Generation 424:
+	Average Fitness: 2.62
+	Best Fitness 9
+	Average Fitness of Selected: 2.50505050505051
+Generation 425:
+	Average Fitness: 2.59
+	Best Fitness 6
+	Average Fitness of Selected: 2.6969696969697
+Generation 426:
+	Average Fitness: 2.65
+	Best Fitness 9
+	Average Fitness of Selected: 3.05050505050505
+Generation 427:
+	Average Fitness: 2.76
+	Best Fitness 9
+	Average Fitness of Selected: 2.61616161616162
+Generation 428:
+	Average Fitness: 2.78
+	Best Fitness 9
+	Average Fitness of Selected: 2.96969696969697
+Generation 429:
+	Average Fitness: 2.95
+	Best Fitness 9
+	Average Fitness of Selected: 2.97979797979798
+Generation 430:
+	Average Fitness: 2.83
+	Best Fitness 7
+	Average Fitness of Selected: 2.75757575757576
+Generation 431:
+	Average Fitness: 2.98
+	Best Fitness 10
+	Average Fitness of Selected: 2.92929292929293
+Generation 432:
+	Average Fitness: 2.8
+	Best Fitness 8
+	Average Fitness of Selected: 2.97979797979798
+Generation 433:
+	Average Fitness: 2.82
+	Best Fitness 8
+	Average Fitness of Selected: 2.83838383838384
+Generation 434:
+	Average Fitness: 2.95
+	Best Fitness 7
+	Average Fitness of Selected: 2.72727272727273
+Generation 435:
+	Average Fitness: 2.66
+	Best Fitness 8
+	Average Fitness of Selected: 3.06060606060606
+Generation 436:
+	Average Fitness: 3.04
+	Best Fitness 10
+	Average Fitness of Selected: 2.73737373737374
+Generation 437:
+	Average Fitness: 2.74
+	Best Fitness 10
+	Average Fitness of Selected: 2.84848484848485
+Generation 438:
+	Average Fitness: 2.99
+	Best Fitness 9
+	Average Fitness of Selected: 3.03030303030303
+Generation 439:
+	Average Fitness: 2.8
+	Best Fitness 7
+	Average Fitness of Selected: 2.96969696969697
+Generation 440:
+	Average Fitness: 2.64
+	Best Fitness 7
+	Average Fitness of Selected: 2.75757575757576
+Generation 441:
+	Average Fitness: 2.77
+	Best Fitness 6
+	Average Fitness of Selected: 2.78787878787879
+Generation 442:
+	Average Fitness: 2.61
+	Best Fitness 7
+	Average Fitness of Selected: 2.65656565656566
+Generation 443:
+	Average Fitness: 2.75
+	Best Fitness 9
+	Average Fitness of Selected: 3.03030303030303
+Generation 444:
+	Average Fitness: 2.84
+	Best Fitness 9
+	Average Fitness of Selected: 2.84848484848485
+Generation 445:
+	Average Fitness: 2.86
+	Best Fitness 7
+	Average Fitness of Selected: 2.74747474747475
+Generation 446:
+	Average Fitness: 2.49
+	Best Fitness 6
+	Average Fitness of Selected: 3.01010101010101
+Generation 447:
+	Average Fitness: 2.45
+	Best Fitness 6
+	Average Fitness of Selected: 2.58585858585859
+Generation 448:
+	Average Fitness: 2.55
+	Best Fitness 10
+	Average Fitness of Selected: 2.84848484848485
+Generation 449:
+	Average Fitness: 2.52
+	Best Fitness 8
+	Average Fitness of Selected: 2.88888888888889
+Generation 450:
+	Average Fitness: 2.87
+	Best Fitness 7
+	Average Fitness of Selected: 2.85858585858586
+Generation 451:
+	Average Fitness: 2.7
+	Best Fitness 9
+	Average Fitness of Selected: 2.63636363636364
+Generation 452:
+	Average Fitness: 2.75
+	Best Fitness 10
+	Average Fitness of Selected: 2.60606060606061
+Generation 453:
+	Average Fitness: 2.37
+	Best Fitness 5
+	Average Fitness of Selected: 3.03030303030303
+Generation 454:
+	Average Fitness: 2.84
+	Best Fitness 8
+	Average Fitness of Selected: 2.73737373737374
+Generation 455:
+	Average Fitness: 2.97
+	Best Fitness 7
+	Average Fitness of Selected: 2.97979797979798
+Generation 456:
+	Average Fitness: 2.76
+	Best Fitness 7
+	Average Fitness of Selected: 2.88888888888889
+Generation 457:
+	Average Fitness: 2.63
+	Best Fitness 6
+	Average Fitness of Selected: 2.39393939393939
+Generation 458:
+	Average Fitness: 2.51
+	Best Fitness 9
+	Average Fitness of Selected: 2.70707070707071
+Generation 459:
+	Average Fitness: 2.5
+	Best Fitness 8
+	Average Fitness of Selected: 3.01010101010101
+Generation 460:
+	Average Fitness: 2.66
+	Best Fitness 7
+	Average Fitness of Selected: 2.62626262626263
+Generation 461:
+	Average Fitness: 2.48
+	Best Fitness 7
+	Average Fitness of Selected: 2.65656565656566
+Generation 462:
+	Average Fitness: 2.65
+	Best Fitness 7
+	Average Fitness of Selected: 3.15151515151515
+Generation 463:
+	Average Fitness: 2.81
+	Best Fitness 8
+	Average Fitness of Selected: 2.95959595959596
+Generation 464:
+	Average Fitness: 2.58
+	Best Fitness 7
+	Average Fitness of Selected: 2.87878787878788
+Generation 465:
+	Average Fitness: 2.65
+	Best Fitness 7
+	Average Fitness of Selected: 2.53535353535354
+Generation 466:
+	Average Fitness: 2.47
+	Best Fitness 8
+	Average Fitness of Selected: 2.86868686868687
+Generation 467:
+	Average Fitness: 3.06
+	Best Fitness 8
+	Average Fitness of Selected: 2.84848484848485
+Generation 468:
+	Average Fitness: 2.96
+	Best Fitness 9
+	Average Fitness of Selected: 2.8989898989899
+Generation 469:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.56565656565657
+Generation 470:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.61616161616162
+Generation 471:
+	Average Fitness: 2.66
+	Best Fitness 8
+	Average Fitness of Selected: 2.56565656565657
+Generation 472:
+	Average Fitness: 2.46
+	Best Fitness 8
+	Average Fitness of Selected: 2.62626262626263
+Generation 473:
+	Average Fitness: 2.09
+	Best Fitness 7
+	Average Fitness of Selected: 2.63636363636364
+Generation 474:
+	Average Fitness: 2.43
+	Best Fitness 7
+	Average Fitness of Selected: 2.67676767676768
+Generation 475:
+	Average Fitness: 2.54
+	Best Fitness 8
+	Average Fitness of Selected: 2.90909090909091
+Generation 476:
+	Average Fitness: 2.7
+	Best Fitness 8
+	Average Fitness of Selected: 2.72727272727273
+Generation 477:
+	Average Fitness: 2.56
+	Best Fitness 11
+	Average Fitness of Selected: 3.08080808080808
+Generation 478:
+	Average Fitness: 3.0
+	Best Fitness 10
+	Average Fitness of Selected: 3.1010101010101
+Generation 479:
+	Average Fitness: 2.86
+	Best Fitness 9
+	Average Fitness of Selected: 3.1010101010101
+Generation 480:
+	Average Fitness: 2.82
+	Best Fitness 6
+	Average Fitness of Selected: 2.72727272727273
+Generation 481:
+	Average Fitness: 2.8
+	Best Fitness 8
+	Average Fitness of Selected: 2.57575757575758
+Generation 482:
+	Average Fitness: 2.53
+	Best Fitness 7
+	Average Fitness of Selected: 2.8989898989899
+Generation 483:
+	Average Fitness: 2.69
+	Best Fitness 6
+	Average Fitness of Selected: 2.97979797979798
+Generation 484:
+	Average Fitness: 3.11
+	Best Fitness 9
+	Average Fitness of Selected: 2.66666666666667
+Generation 485:
+	Average Fitness: 2.73
+	Best Fitness 7
+	Average Fitness of Selected: 3.01010101010101
+Generation 486:
+	Average Fitness: 2.72
+	Best Fitness 7
+	Average Fitness of Selected: 2.78787878787879
+Generation 487:
+	Average Fitness: 2.84
+	Best Fitness 8
+	Average Fitness of Selected: 2.72727272727273
+Generation 488:
+	Average Fitness: 2.7
+	Best Fitness 9
+	Average Fitness of Selected: 2.62626262626263
+Generation 489:
+	Average Fitness: 2.71
+	Best Fitness 7
+	Average Fitness of Selected: 2.58585858585859
+Generation 490:
+	Average Fitness: 2.5
+	Best Fitness 7
+	Average Fitness of Selected: 2.80808080808081
+Generation 491:
+	Average Fitness: 2.81
+	Best Fitness 8
+	Average Fitness of Selected: 2.83838383838384
+Generation 492:
+	Average Fitness: 2.81
+	Best Fitness 8
+	Average Fitness of Selected: 2.87878787878788
+Generation 493:
+	Average Fitness: 3.15
+	Best Fitness 8
+	Average Fitness of Selected: 2.83838383838384
+Generation 494:
+	Average Fitness: 2.42
+	Best Fitness 8
+	Average Fitness of Selected: 2.70707070707071
+Generation 495:
+	Average Fitness: 3.05
+	Best Fitness 7
+	Average Fitness of Selected: 3.05050505050505
+Generation 496:
+	Average Fitness: 2.77
+	Best Fitness 7
+	Average Fitness of Selected: 2.87878787878788
+Generation 497:
+	Average Fitness: 2.9
+	Best Fitness 7
+	Average Fitness of Selected: 2.4040404040404
+Generation 498:
+	Average Fitness: 2.31
+	Best Fitness 6
+	Average Fitness of Selected: 2.81818181818182
+Generation 499:
+	Average Fitness: 2.69
+	Best Fitness 7
+	Average Fitness of Selected: 3.03030303030303
+Generation 500:
+	Average Fitness: 2.76
+	Best Fitness 7
+	Average Fitness of Selected: 3.05050505050505
+Generation 501:
+	Average Fitness: 2.66
+	Best Fitness 8
+	Average Fitness of Selected: 2.98989898989899
+Generation 502:
+	Average Fitness: 2.69
+	Best Fitness 8
+	Average Fitness of Selected: 2.57575757575758
+Generation 503:
+	Average Fitness: 2.9
+	Best Fitness 9
+	Average Fitness of Selected: 2.72727272727273
+Generation 504:
+	Average Fitness: 2.78
+	Best Fitness 8
+	Average Fitness of Selected: 2.82828282828283
+Generation 505:
+	Average Fitness: 2.95
+	Best Fitness 9
+	Average Fitness of Selected: 3.12121212121212
+Generation 506:
+	Average Fitness: 2.71
+	Best Fitness 7
+	Average Fitness of Selected: 2.75757575757576
+Generation 507:
+	Average Fitness: 2.65
+	Best Fitness 8
+	Average Fitness of Selected: 2.95959595959596
+Generation 508:
+	Average Fitness: 2.85
+	Best Fitness 7
+	Average Fitness of Selected: 2.85858585858586
+Generation 509:
+	Average Fitness: 2.61
+	Best Fitness 8
+	Average Fitness of Selected: 2.88888888888889
+Generation 510:
+	Average Fitness: 2.36
+	Best Fitness 6
+	Average Fitness of Selected: 2.43434343434343
+Generation 511:
+	Average Fitness: 2.59
+	Best Fitness 8
+	Average Fitness of Selected: 2.5959595959596
+Generation 512:
+	Average Fitness: 2.49
+	Best Fitness 7
+	Average Fitness of Selected: 2.66666666666667
+Generation 513:
+	Average Fitness: 2.46
+	Best Fitness 5
+	Average Fitness of Selected: 2.73737373737374
+Generation 514:
+	Average Fitness: 2.9
+	Best Fitness 9
+	Average Fitness of Selected: 2.57575757575758
+Generation 515:
+	Average Fitness: 2.55
+	Best Fitness 7
+	Average Fitness of Selected: 3.05050505050505
+Generation 516:
+	Average Fitness: 2.68
+	Best Fitness 8
+	Average Fitness of Selected: 2.98989898989899
+Generation 517:
+	Average Fitness: 3.1
+	Best Fitness 8
+	Average Fitness of Selected: 3.11111111111111
+Generation 518:
+	Average Fitness: 2.96
+	Best Fitness 8
+	Average Fitness of Selected: 2.78787878787879
+Generation 519:
+	Average Fitness: 2.64
+	Best Fitness 8
+	Average Fitness of Selected: 3.01010101010101
+Generation 520:
+	Average Fitness: 2.55
+	Best Fitness 7
+	Average Fitness of Selected: 3.06060606060606
+Generation 521:
+	Average Fitness: 2.77
+	Best Fitness 8
+	Average Fitness of Selected: 2.94949494949495
+Generation 522:
+	Average Fitness: 2.52
+	Best Fitness 7
+	Average Fitness of Selected: 3.17171717171717
+Generation 523:
+	Average Fitness: 2.94
+	Best Fitness 8
+	Average Fitness of Selected: 2.52525252525253
+Generation 524:
+	Average Fitness: 3.1
+	Best Fitness 8
+	Average Fitness of Selected: 2.47474747474747
+Generation 525:
+	Average Fitness: 2.75
+	Best Fitness 8
+	Average Fitness of Selected: 2.71717171717172
+Generation 526:
+	Average Fitness: 2.47
+	Best Fitness 9
+	Average Fitness of Selected: 2.50505050505051
+Generation 527:
+	Average Fitness: 2.87
+	Best Fitness 9
+	Average Fitness of Selected: 2.73737373737374
+Generation 528:
+	Average Fitness: 3.24
+	Best Fitness 9
+	Average Fitness of Selected: 2.67676767676768
+Generation 529:
+	Average Fitness: 2.56
+	Best Fitness 9
+	Average Fitness of Selected: 2.48484848484848
+Generation 530:
+	Average Fitness: 2.86
+	Best Fitness 8
+	Average Fitness of Selected: 2.6969696969697
+Generation 531:
+	Average Fitness: 2.77
+	Best Fitness 8
+	Average Fitness of Selected: 2.63636363636364
+Generation 532:
+	Average Fitness: 2.67
+	Best Fitness 8
+	Average Fitness of Selected: 2.61616161616162
+Generation 533:
+	Average Fitness: 2.75
+	Best Fitness 10
+	Average Fitness of Selected: 2.65656565656566
+Generation 534:
+	Average Fitness: 2.73
+	Best Fitness 8
+	Average Fitness of Selected: 2.56565656565657
+Generation 535:
+	Average Fitness: 2.81
+	Best Fitness 9
+	Average Fitness of Selected: 2.6969696969697
+Generation 536:
+	Average Fitness: 2.81
+	Best Fitness 8
+	Average Fitness of Selected: 2.51515151515152
+Generation 537:
+	Average Fitness: 2.63
+	Best Fitness 7
+	Average Fitness of Selected: 2.5959595959596
+Generation 538:
+	Average Fitness: 2.91
+	Best Fitness 7
+	Average Fitness of Selected: 2.54545454545455
+Generation 539:
+	Average Fitness: 2.82
+	Best Fitness 8
+	Average Fitness of Selected: 2.81818181818182
+Generation 540:
+	Average Fitness: 2.93
+	Best Fitness 9
+	Average Fitness of Selected: 3.32323232323232
+Generation 541:
+	Average Fitness: 3.09
+	Best Fitness 6
+	Average Fitness of Selected: 3.03030303030303
+Generation 542:
+	Average Fitness: 2.57
+	Best Fitness 7
+	Average Fitness of Selected: 3.0
+Generation 543:
+	Average Fitness: 2.54
+	Best Fitness 7
+	Average Fitness of Selected: 2.81818181818182
+Generation 544:
+	Average Fitness: 2.73
+	Best Fitness 9
+	Average Fitness of Selected: 2.29292929292929
+Generation 545:
+	Average Fitness: 2.64
+	Best Fitness 9
+	Average Fitness of Selected: 2.61616161616162
+Generation 546:
+	Average Fitness: 2.68
+	Best Fitness 8
+	Average Fitness of Selected: 2.97979797979798
+Generation 547:
+	Average Fitness: 2.9
+	Best Fitness 8
+	Average Fitness of Selected: 2.77777777777778
+Generation 548:
+	Average Fitness: 3.02
+	Best Fitness 7
+	Average Fitness of Selected: 2.63636363636364
+Generation 549:
+	Average Fitness: 2.78
+	Best Fitness 9
+	Average Fitness of Selected: 2.84848484848485
+Generation 550:
+	Average Fitness: 2.67
+	Best Fitness 7
+	Average Fitness of Selected: 2.70707070707071
+Generation 551:
+	Average Fitness: 2.63
+	Best Fitness 6
+	Average Fitness of Selected: 2.49494949494949
+Generation 552:
+	Average Fitness: 2.83
+	Best Fitness 8
+	Average Fitness of Selected: 2.77777777777778
+Generation 553:
+	Average Fitness: 2.58
+	Best Fitness 7
+	Average Fitness of Selected: 2.6969696969697
+Generation 554:
+	Average Fitness: 2.46
+	Best Fitness 6
+	Average Fitness of Selected: 2.91919191919192
+Generation 555:
+	Average Fitness: 2.71
+	Best Fitness 8
+	Average Fitness of Selected: 2.92929292929293
+Generation 556:
+	Average Fitness: 2.65
+	Best Fitness 10
+	Average Fitness of Selected: 2.74747474747475
+Generation 557:
+	Average Fitness: 2.68
+	Best Fitness 8
+	Average Fitness of Selected: 2.67676767676768
+Generation 558:
+	Average Fitness: 2.69
+	Best Fitness 10
+	Average Fitness of Selected: 2.76767676767677
+Generation 559:
+	Average Fitness: 2.85
+	Best Fitness 7
+	Average Fitness of Selected: 2.97979797979798
+Generation 560:
+	Average Fitness: 2.96
+	Best Fitness 9
+	Average Fitness of Selected: 3.01010101010101
+Generation 561:
+	Average Fitness: 2.74
+	Best Fitness 8
+	Average Fitness of Selected: 2.93939393939394
+Generation 562:
+	Average Fitness: 2.97
+	Best Fitness 7
+	Average Fitness of Selected: 3.07070707070707
+Generation 563:
+	Average Fitness: 2.74
+	Best Fitness 9
+	Average Fitness of Selected: 2.81818181818182
+Generation 564:
+	Average Fitness: 2.89
+	Best Fitness 8
+	Average Fitness of Selected: 2.81818181818182
+Generation 565:
+	Average Fitness: 2.55
+	Best Fitness 7
+	Average Fitness of Selected: 2.90909090909091
+Generation 566:
+	Average Fitness: 2.78
+	Best Fitness 7
+	Average Fitness of Selected: 2.56565656565657
+Generation 567:
+	Average Fitness: 2.92
+	Best Fitness 8
+	Average Fitness of Selected: 2.75757575757576
+Generation 568:
+	Average Fitness: 3.05
+	Best Fitness 8
+	Average Fitness of Selected: 2.80808080808081
+Generation 569:
+	Average Fitness: 2.46
+	Best Fitness 7
+	Average Fitness of Selected: 2.93939393939394
+Generation 570:
+	Average Fitness: 2.87
+	Best Fitness 7
+	Average Fitness of Selected: 2.49494949494949
+Generation 571:
+	Average Fitness: 2.84
+	Best Fitness 8
+	Average Fitness of Selected: 2.94949494949495
+Generation 572:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 3.09090909090909
+Generation 573:
+	Average Fitness: 2.95
+	Best Fitness 8
+	Average Fitness of Selected: 2.73737373737374
+Generation 574:
+	Average Fitness: 3.08
+	Best Fitness 10
+	Average Fitness of Selected: 2.58585858585859
+Generation 575:
+	Average Fitness: 2.8
+	Best Fitness 7
+	Average Fitness of Selected: 2.82828282828283
+Generation 576:
+	Average Fitness: 3.03
+	Best Fitness 8
+	Average Fitness of Selected: 2.6969696969697
+Generation 577:
+	Average Fitness: 2.82
+	Best Fitness 9
+	Average Fitness of Selected: 2.93939393939394
+Generation 578:
+	Average Fitness: 2.46
+	Best Fitness 7
+	Average Fitness of Selected: 2.55555555555556
+Generation 579:
+	Average Fitness: 2.76
+	Best Fitness 8
+	Average Fitness of Selected: 3.23232323232323
+Generation 580:
+	Average Fitness: 2.68
+	Best Fitness 9
+	Average Fitness of Selected: 2.67676767676768
+Generation 581:
+	Average Fitness: 2.72
+	Best Fitness 7
+	Average Fitness of Selected: 2.84848484848485
+Generation 582:
+	Average Fitness: 2.82
+	Best Fitness 8
+	Average Fitness of Selected: 2.39393939393939
+Generation 583:
+	Average Fitness: 2.86
+	Best Fitness 8
+	Average Fitness of Selected: 2.87878787878788
+Generation 584:
+	Average Fitness: 2.85
+	Best Fitness 8
+	Average Fitness of Selected: 2.92929292929293
+Generation 585:
+	Average Fitness: 2.93
+	Best Fitness 7
+	Average Fitness of Selected: 2.50505050505051
+Generation 586:
+	Average Fitness: 2.83
+	Best Fitness 7
+	Average Fitness of Selected: 2.86868686868687
+Generation 587:
+	Average Fitness: 2.99
+	Best Fitness 8
+	Average Fitness of Selected: 3.19191919191919
+Generation 588:
+	Average Fitness: 2.93
+	Best Fitness 9
+	Average Fitness of Selected: 2.8989898989899
+Generation 589:
+	Average Fitness: 2.94
+	Best Fitness 9
+	Average Fitness of Selected: 3.04040404040404
+Generation 590:
+	Average Fitness: 2.53
+	Best Fitness 7
+	Average Fitness of Selected: 2.62626262626263
+Generation 591:
+	Average Fitness: 2.66
+	Best Fitness 9
+	Average Fitness of Selected: 2.7979797979798
+Generation 592:
+	Average Fitness: 2.68
+	Best Fitness 7
+	Average Fitness of Selected: 3.15151515151515
+Generation 593:
+	Average Fitness: 3.28
+	Best Fitness 8
+	Average Fitness of Selected: 2.87878787878788
+Generation 594:
+	Average Fitness: 2.64
+	Best Fitness 9
+	Average Fitness of Selected: 3.0
+Generation 595:
+	Average Fitness: 2.71
+	Best Fitness 8
+	Average Fitness of Selected: 2.98989898989899
+Generation 596:
+	Average Fitness: 2.71
+	Best Fitness 7
+	Average Fitness of Selected: 2.91919191919192
+Generation 597:
+	Average Fitness: 2.96
+	Best Fitness 9
+	Average Fitness of Selected: 3.05050505050505
+Generation 598:
+	Average Fitness: 3.16
+	Best Fitness 8
+	Average Fitness of Selected: 2.97979797979798
+Generation 599:
+	Average Fitness: 3.0
+	Best Fitness 9
+	Average Fitness of Selected: 2.91919191919192
+Generation 600:
+	Average Fitness: 2.85
+	Best Fitness 9
+	Average Fitness of Selected: 2.92929292929293
+Generation 601:
+	Average Fitness: 2.78
+	Best Fitness 8
+	Average Fitness of Selected: 3.0
+Generation 602:
+	Average Fitness: 2.81
+	Best Fitness 8
+	Average Fitness of Selected: 2.86868686868687
+Generation 603:
+	Average Fitness: 2.8
+	Best Fitness 10
+	Average Fitness of Selected: 2.6969696969697
+Generation 604:
+	Average Fitness: 2.84
+	Best Fitness 8
+	Average Fitness of Selected: 2.90909090909091
+Generation 605:
+	Average Fitness: 2.69
+	Best Fitness 7
+	Average Fitness of Selected: 2.98989898989899
+Generation 606:
+	Average Fitness: 3.14
+	Best Fitness 9
+	Average Fitness of Selected: 2.77777777777778
+Generation 607:
+	Average Fitness: 2.84
+	Best Fitness 10
+	Average Fitness of Selected: 2.98989898989899
+Generation 608:
+	Average Fitness: 2.77
+	Best Fitness 9
+	Average Fitness of Selected: 2.75757575757576
+Generation 609:
+	Average Fitness: 2.84
+	Best Fitness 7
+	Average Fitness of Selected: 2.47474747474747
+Generation 610:
+	Average Fitness: 2.8
+	Best Fitness 8
+	Average Fitness of Selected: 2.86868686868687
+Generation 611:
+	Average Fitness: 2.62
+	Best Fitness 5
+	Average Fitness of Selected: 2.93939393939394
+Generation 612:
+	Average Fitness: 2.82
+	Best Fitness 8
+	Average Fitness of Selected: 2.85858585858586
+Generation 613:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.8989898989899
+Generation 614:
+	Average Fitness: 2.76
+	Best Fitness 8
+	Average Fitness of Selected: 2.63636363636364
+Generation 615:
+	Average Fitness: 2.55
+	Best Fitness 8
+	Average Fitness of Selected: 2.76767676767677
+Generation 616:
+	Average Fitness: 2.82
+	Best Fitness 7
+	Average Fitness of Selected: 3.16161616161616
+Generation 617:
+	Average Fitness: 3.07
+	Best Fitness 10
+	Average Fitness of Selected: 2.76767676767677
+Generation 618:
+	Average Fitness: 2.52
+	Best Fitness 6
+	Average Fitness of Selected: 2.73737373737374
+Generation 619:
+	Average Fitness: 2.87
+	Best Fitness 8
+	Average Fitness of Selected: 3.18181818181818
+Generation 620:
+	Average Fitness: 3.09
+	Best Fitness 8
+	Average Fitness of Selected: 3.06060606060606
+Generation 621:
+	Average Fitness: 2.85
+	Best Fitness 8
+	Average Fitness of Selected: 2.44444444444444
+Generation 622:
+	Average Fitness: 2.77
+	Best Fitness 7
+	Average Fitness of Selected: 3.03030303030303
+Generation 623:
+	Average Fitness: 2.86
+	Best Fitness 7
+	Average Fitness of Selected: 2.70707070707071
+Generation 624:
+	Average Fitness: 2.73
+	Best Fitness 7
+	Average Fitness of Selected: 2.62626262626263
+Generation 625:
+	Average Fitness: 2.76
+	Best Fitness 8
+	Average Fitness of Selected: 2.84848484848485
+Generation 626:
+	Average Fitness: 3.01
+	Best Fitness 8
+	Average Fitness of Selected: 2.93939393939394
+Generation 627:
+	Average Fitness: 2.38
+	Best Fitness 6
+	Average Fitness of Selected: 2.72727272727273
+Generation 628:
+	Average Fitness: 2.76
+	Best Fitness 8
+	Average Fitness of Selected: 3.05050505050505
+Generation 629:
+	Average Fitness: 3.02
+	Best Fitness 9
+	Average Fitness of Selected: 2.78787878787879
+Generation 630:
+	Average Fitness: 3.01
+	Best Fitness 8
+	Average Fitness of Selected: 2.46464646464646
+Generation 631:
+	Average Fitness: 2.63
+	Best Fitness 7
+	Average Fitness of Selected: 2.93939393939394
+Generation 632:
+	Average Fitness: 2.83
+	Best Fitness 10
+	Average Fitness of Selected: 2.77777777777778
+Generation 633:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.68686868686869
+Generation 634:
+	Average Fitness: 2.9
+	Best Fitness 9
+	Average Fitness of Selected: 2.73737373737374
+Generation 635:
+	Average Fitness: 2.7
+	Best Fitness 7
+	Average Fitness of Selected: 2.56565656565657
+Generation 636:
+	Average Fitness: 2.91
+	Best Fitness 6
+	Average Fitness of Selected: 2.94949494949495
+Generation 637:
+	Average Fitness: 2.81
+	Best Fitness 7
+	Average Fitness of Selected: 2.90909090909091
+Generation 638:
+	Average Fitness: 2.61
+	Best Fitness 9
+	Average Fitness of Selected: 2.87878787878788
+Generation 639:
+	Average Fitness: 2.94
+	Best Fitness 10
+	Average Fitness of Selected: 2.5959595959596
+Generation 640:
+	Average Fitness: 2.77
+	Best Fitness 8
+	Average Fitness of Selected: 2.70707070707071
+Generation 641:
+	Average Fitness: 2.64
+	Best Fitness 7
+	Average Fitness of Selected: 2.68686868686869
+Generation 642:
+	Average Fitness: 2.77
+	Best Fitness 9
+	Average Fitness of Selected: 3.27272727272727
+Generation 643:
+	Average Fitness: 2.8
+	Best Fitness 8
+	Average Fitness of Selected: 2.91919191919192
+Generation 644:
+	Average Fitness: 3.29
+	Best Fitness 8
+	Average Fitness of Selected: 3.08080808080808
+Generation 645:
+	Average Fitness: 3.22
+	Best Fitness 8
+	Average Fitness of Selected: 2.70707070707071
+Generation 646:
+	Average Fitness: 2.72
+	Best Fitness 7
+	Average Fitness of Selected: 2.65656565656566
+Generation 647:
+	Average Fitness: 2.75
+	Best Fitness 6
+	Average Fitness of Selected: 2.97979797979798
+Generation 648:
+	Average Fitness: 3.32
+	Best Fitness 9
+	Average Fitness of Selected: 3.22222222222222
+Generation 649:
+	Average Fitness: 2.8
+	Best Fitness 10
+	Average Fitness of Selected: 2.64646464646465
+Generation 650:
+	Average Fitness: 2.75
+	Best Fitness 8
+	Average Fitness of Selected: 3.07070707070707
+Generation 651:
+	Average Fitness: 2.76
+	Best Fitness 9
+	Average Fitness of Selected: 3.0
+Generation 652:
+	Average Fitness: 2.8
+	Best Fitness 8
+	Average Fitness of Selected: 2.65656565656566
+Generation 653:
+	Average Fitness: 2.87
+	Best Fitness 7
+	Average Fitness of Selected: 2.47474747474747
+Generation 654:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 3.11111111111111
+Generation 655:
+	Average Fitness: 2.95
+	Best Fitness 8
+	Average Fitness of Selected: 2.90909090909091
+Generation 656:
+	Average Fitness: 2.75
+	Best Fitness 7
+	Average Fitness of Selected: 2.63636363636364
+Generation 657:
+	Average Fitness: 2.8
+	Best Fitness 8
+	Average Fitness of Selected: 2.4040404040404
+Generation 658:
+	Average Fitness: 2.5
+	Best Fitness 6
+	Average Fitness of Selected: 2.80808080808081
+Generation 659:
+	Average Fitness: 2.83
+	Best Fitness 8
+	Average Fitness of Selected: 2.77777777777778
+Generation 660:
+	Average Fitness: 2.8
+	Best Fitness 9
+	Average Fitness of Selected: 2.97979797979798
+Generation 661:
+	Average Fitness: 3.03
+	Best Fitness 8
+	Average Fitness of Selected: 2.86868686868687
+Generation 662:
+	Average Fitness: 2.94
+	Best Fitness 8
+	Average Fitness of Selected: 2.92929292929293
+Generation 663:
+	Average Fitness: 3.19
+	Best Fitness 9
+	Average Fitness of Selected: 3.02020202020202
+Generation 664:
+	Average Fitness: 2.83
+	Best Fitness 9
+	Average Fitness of Selected: 2.75757575757576
+Generation 665:
+	Average Fitness: 2.71
+	Best Fitness 7
+	Average Fitness of Selected: 2.65656565656566
+Generation 666:
+	Average Fitness: 2.56
+	Best Fitness 6
+	Average Fitness of Selected: 2.87878787878788
+Generation 667:
+	Average Fitness: 3.01
+	Best Fitness 8
+	Average Fitness of Selected: 2.93939393939394
+Generation 668:
+	Average Fitness: 2.98
+	Best Fitness 10
+	Average Fitness of Selected: 2.75757575757576
+Generation 669:
+	Average Fitness: 3.02
+	Best Fitness 8
+	Average Fitness of Selected: 2.67676767676768
+Generation 670:
+	Average Fitness: 2.63
+	Best Fitness 6
+	Average Fitness of Selected: 3.04040404040404
+Generation 671:
+	Average Fitness: 2.53
+	Best Fitness 7
+	Average Fitness of Selected: 2.85858585858586
+Generation 672:
+	Average Fitness: 2.94
+	Best Fitness 8
+	Average Fitness of Selected: 2.58585858585859
+Generation 673:
+	Average Fitness: 2.58
+	Best Fitness 8
+	Average Fitness of Selected: 2.8989898989899
+Generation 674:
+	Average Fitness: 2.76
+	Best Fitness 8
+	Average Fitness of Selected: 2.74747474747475
+Generation 675:
+	Average Fitness: 2.75
+	Best Fitness 9
+	Average Fitness of Selected: 2.76767676767677
+Generation 676:
+	Average Fitness: 2.89
+	Best Fitness 7
+	Average Fitness of Selected: 2.6969696969697
+Generation 677:
+	Average Fitness: 2.98
+	Best Fitness 9
+	Average Fitness of Selected: 2.68686868686869
+Generation 678:
+	Average Fitness: 2.75
+	Best Fitness 8
+	Average Fitness of Selected: 2.72727272727273
+Generation 679:
+	Average Fitness: 2.77
+	Best Fitness 7
+	Average Fitness of Selected: 2.97979797979798
+Generation 680:
+	Average Fitness: 2.53
+	Best Fitness 7
+	Average Fitness of Selected: 2.77777777777778
+Generation 681:
+	Average Fitness: 2.93
+	Best Fitness 7
+	Average Fitness of Selected: 3.02020202020202
+Generation 682:
+	Average Fitness: 2.92
+	Best Fitness 8
+	Average Fitness of Selected: 2.88888888888889
+Generation 683:
+	Average Fitness: 3.14
+	Best Fitness 8
+	Average Fitness of Selected: 2.95959595959596
+Generation 684:
+	Average Fitness: 2.69
+	Best Fitness 7
+	Average Fitness of Selected: 2.78787878787879
+Generation 685:
+	Average Fitness: 2.95
+	Best Fitness 8
+	Average Fitness of Selected: 2.96969696969697
+Generation 686:
+	Average Fitness: 2.78
+	Best Fitness 7
+	Average Fitness of Selected: 2.61616161616162
+Generation 687:
+	Average Fitness: 2.79
+	Best Fitness 7
+	Average Fitness of Selected: 2.87878787878788
+Generation 688:
+	Average Fitness: 2.4
+	Best Fitness 7
+	Average Fitness of Selected: 2.91919191919192
+Generation 689:
+	Average Fitness: 2.97
+	Best Fitness 7
+	Average Fitness of Selected: 2.8989898989899
+Generation 690:
+	Average Fitness: 2.83
+	Best Fitness 8
+	Average Fitness of Selected: 2.64646464646465
+Generation 691:
+	Average Fitness: 2.52
+	Best Fitness 8
+	Average Fitness of Selected: 2.80808080808081
+Generation 692:
+	Average Fitness: 2.49
+	Best Fitness 6
+	Average Fitness of Selected: 2.71717171717172
+Generation 693:
+	Average Fitness: 2.63
+	Best Fitness 7
+	Average Fitness of Selected: 2.93939393939394
+Generation 694:
+	Average Fitness: 2.66
+	Best Fitness 7
+	Average Fitness of Selected: 2.78787878787879
+Generation 695:
+	Average Fitness: 2.62
+	Best Fitness 7
+	Average Fitness of Selected: 2.94949494949495
+Generation 696:
+	Average Fitness: 2.8
+	Best Fitness 8
+	Average Fitness of Selected: 2.6969696969697
+Generation 697:
+	Average Fitness: 2.64
+	Best Fitness 7
+	Average Fitness of Selected: 2.81818181818182
+Generation 698:
+	Average Fitness: 2.88
+	Best Fitness 10
+	Average Fitness of Selected: 2.74747474747475
+Generation 699:
+	Average Fitness: 2.81
+	Best Fitness 8
+	Average Fitness of Selected: 2.64646464646465
+Generation 700:
+	Average Fitness: 2.9
+	Best Fitness 9
+	Average Fitness of Selected: 3.06060606060606
+Generation 701:
+	Average Fitness: 2.62
+	Best Fitness 9
+	Average Fitness of Selected: 3.12121212121212
+Generation 702:
+	Average Fitness: 2.81
+	Best Fitness 8
+	Average Fitness of Selected: 2.7979797979798
+Generation 703:
+	Average Fitness: 2.67
+	Best Fitness 7
+	Average Fitness of Selected: 2.74747474747475
+Generation 704:
+	Average Fitness: 3.03
+	Best Fitness 7
+	Average Fitness of Selected: 2.97979797979798
+Generation 705:
+	Average Fitness: 2.83
+	Best Fitness 6
+	Average Fitness of Selected: 3.01010101010101
+Generation 706:
+	Average Fitness: 2.82
+	Best Fitness 7
+	Average Fitness of Selected: 2.68686868686869
+Generation 707:
+	Average Fitness: 2.72
+	Best Fitness 9
+	Average Fitness of Selected: 2.65656565656566
+Generation 708:
+	Average Fitness: 2.73
+	Best Fitness 7
+	Average Fitness of Selected: 2.91919191919192
+Generation 709:
+	Average Fitness: 3.06
+	Best Fitness 9
+	Average Fitness of Selected: 2.76767676767677
+Generation 710:
+	Average Fitness: 2.62
+	Best Fitness 7
+	Average Fitness of Selected: 2.61616161616162
+Generation 711:
+	Average Fitness: 2.48
+	Best Fitness 7
+	Average Fitness of Selected: 2.76767676767677
+Generation 712:
+	Average Fitness: 2.51
+	Best Fitness 8
+	Average Fitness of Selected: 3.05050505050505
+Generation 713:
+	Average Fitness: 2.98
+	Best Fitness 8
+	Average Fitness of Selected: 2.82828282828283
+Generation 714:
+	Average Fitness: 2.73
+	Best Fitness 8
+	Average Fitness of Selected: 2.77777777777778
+Generation 715:
+	Average Fitness: 2.92
+	Best Fitness 8
+	Average Fitness of Selected: 2.64646464646465
+Generation 716:
+	Average Fitness: 2.75
+	Best Fitness 7
+	Average Fitness of Selected: 2.77777777777778
+Generation 717:
+	Average Fitness: 2.5
+	Best Fitness 6
+	Average Fitness of Selected: 3.03030303030303
+Generation 718:
+	Average Fitness: 2.89
+	Best Fitness 7
+	Average Fitness of Selected: 2.77777777777778
+Generation 719:
+	Average Fitness: 2.68
+	Best Fitness 7
+	Average Fitness of Selected: 2.82828282828283
+Generation 720:
+	Average Fitness: 2.85
+	Best Fitness 8
+	Average Fitness of Selected: 2.94949494949495
+Generation 721:
+	Average Fitness: 2.56
+	Best Fitness 11
+	Average Fitness of Selected: 2.91919191919192
+Generation 722:
+	Average Fitness: 2.77
+	Best Fitness 8
+	Average Fitness of Selected: 2.6969696969697
+Generation 723:
+	Average Fitness: 2.61
+	Best Fitness 7
+	Average Fitness of Selected: 2.57575757575758
+Generation 724:
+	Average Fitness: 2.91
+	Best Fitness 7
+	Average Fitness of Selected: 2.66666666666667
+Generation 725:
+	Average Fitness: 2.77
+	Best Fitness 7
+	Average Fitness of Selected: 3.12121212121212
+Generation 726:
+	Average Fitness: 2.79
+	Best Fitness 8
+	Average Fitness of Selected: 2.66666666666667
+Generation 727:
+	Average Fitness: 2.93
+	Best Fitness 8
+	Average Fitness of Selected: 3.01010101010101
+Generation 728:
+	Average Fitness: 2.59
+	Best Fitness 6
+	Average Fitness of Selected: 2.80808080808081
+Generation 729:
+	Average Fitness: 2.77
+	Best Fitness 10
+	Average Fitness of Selected: 2.95959595959596
+Generation 730:
+	Average Fitness: 2.76
+	Best Fitness 7
+	Average Fitness of Selected: 2.57575757575758
+Generation 731:
+	Average Fitness: 2.86
+	Best Fitness 8
+	Average Fitness of Selected: 3.03030303030303
+Generation 732:
+	Average Fitness: 2.6
+	Best Fitness 7
+	Average Fitness of Selected: 2.97979797979798
+Generation 733:
+	Average Fitness: 2.78
+	Best Fitness 7
+	Average Fitness of Selected: 3.0
+Generation 734:
+	Average Fitness: 2.71
+	Best Fitness 7
+	Average Fitness of Selected: 3.11111111111111
+Generation 735:
+	Average Fitness: 3.18
+	Best Fitness 9
+	Average Fitness of Selected: 2.61616161616162
+Generation 736:
+	Average Fitness: 2.65
+	Best Fitness 8
+	Average Fitness of Selected: 2.91919191919192
+Generation 737:
+	Average Fitness: 2.86
+	Best Fitness 9
+	Average Fitness of Selected: 2.68686868686869
+Generation 738:
+	Average Fitness: 2.8
+	Best Fitness 8
+	Average Fitness of Selected: 3.02020202020202
+Generation 739:
+	Average Fitness: 2.91
+	Best Fitness 9
+	Average Fitness of Selected: 2.95959595959596
+Generation 740:
+	Average Fitness: 2.8
+	Best Fitness 7
+	Average Fitness of Selected: 2.92929292929293
+Generation 741:
+	Average Fitness: 2.86
+	Best Fitness 8
+	Average Fitness of Selected: 2.92929292929293
+Generation 742:
+	Average Fitness: 2.66
+	Best Fitness 9
+	Average Fitness of Selected: 2.70707070707071
+Generation 743:
+	Average Fitness: 2.6
+	Best Fitness 8
+	Average Fitness of Selected: 2.45454545454545
+Generation 744:
+	Average Fitness: 2.74
+	Best Fitness 9
+	Average Fitness of Selected: 2.70707070707071
+Generation 745:
+	Average Fitness: 2.68
+	Best Fitness 9
+	Average Fitness of Selected: 2.85858585858586
+Generation 746:
+	Average Fitness: 2.55
+	Best Fitness 7
+	Average Fitness of Selected: 2.7979797979798
+Generation 747:
+	Average Fitness: 2.77
+	Best Fitness 7
+	Average Fitness of Selected: 2.87878787878788
+Generation 748:
+	Average Fitness: 2.6
+	Best Fitness 6
+	Average Fitness of Selected: 2.57575757575758
+Generation 749:
+	Average Fitness: 2.76
+	Best Fitness 11
+	Average Fitness of Selected: 2.65656565656566
+Generation 750:
+	Average Fitness: 2.51
+	Best Fitness 10
+	Average Fitness of Selected: 2.86868686868687
+Generation 751:
+	Average Fitness: 2.77
+	Best Fitness 9
+	Average Fitness of Selected: 3.0
+Generation 752:
+	Average Fitness: 2.64
+	Best Fitness 6
+	Average Fitness of Selected: 2.61616161616162
+Generation 753:
+	Average Fitness: 2.77
+	Best Fitness 8
+	Average Fitness of Selected: 2.63636363636364
+Generation 754:
+	Average Fitness: 2.7
+	Best Fitness 7
+	Average Fitness of Selected: 2.84848484848485
+Generation 755:
+	Average Fitness: 2.84
+	Best Fitness 8
+	Average Fitness of Selected: 2.70707070707071
+Generation 756:
+	Average Fitness: 2.98
+	Best Fitness 7
+	Average Fitness of Selected: 2.6969696969697
+Generation 757:
+	Average Fitness: 2.87
+	Best Fitness 9
+	Average Fitness of Selected: 2.93939393939394
+Generation 758:
+	Average Fitness: 2.67
+	Best Fitness 7
+	Average Fitness of Selected: 2.81818181818182
+Generation 759:
+	Average Fitness: 2.92
+	Best Fitness 8
+	Average Fitness of Selected: 2.35353535353535
+Generation 760:
+	Average Fitness: 2.56
+	Best Fitness 8
+	Average Fitness of Selected: 2.54545454545455
+Generation 761:
+	Average Fitness: 2.74
+	Best Fitness 8
+	Average Fitness of Selected: 2.75757575757576
+Generation 762:
+	Average Fitness: 2.55
+	Best Fitness 6
+	Average Fitness of Selected: 2.87878787878788
+Generation 763:
+	Average Fitness: 2.65
+	Best Fitness 7
+	Average Fitness of Selected: 2.5959595959596
+Generation 764:
+	Average Fitness: 2.8
+	Best Fitness 9
+	Average Fitness of Selected: 2.70707070707071
+Generation 765:
+	Average Fitness: 2.27
+	Best Fitness 7
+	Average Fitness of Selected: 2.64646464646465
+Generation 766:
+	Average Fitness: 2.93
+	Best Fitness 9
+	Average Fitness of Selected: 2.86868686868687
+Generation 767:
+	Average Fitness: 2.72
+	Best Fitness 7
+	Average Fitness of Selected: 2.80808080808081
+Generation 768:
+	Average Fitness: 2.76
+	Best Fitness 7
+	Average Fitness of Selected: 2.75757575757576
+Generation 769:
+	Average Fitness: 2.51
+	Best Fitness 9
+	Average Fitness of Selected: 2.63636363636364
+Generation 770:
+	Average Fitness: 2.68
+	Best Fitness 9
+	Average Fitness of Selected: 2.83838383838384
+Generation 771:
+	Average Fitness: 2.76
+	Best Fitness 11
+	Average Fitness of Selected: 2.94949494949495
+Generation 772:
+	Average Fitness: 2.99
+	Best Fitness 7
+	Average Fitness of Selected: 2.46464646464646
+Generation 773:
+	Average Fitness: 2.52
+	Best Fitness 6
+	Average Fitness of Selected: 2.91919191919192
+Generation 774:
+	Average Fitness: 2.92
+	Best Fitness 9
+	Average Fitness of Selected: 3.2020202020202
+Generation 775:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.90909090909091
+Generation 776:
+	Average Fitness: 2.83
+	Best Fitness 6
+	Average Fitness of Selected: 2.60606060606061
+Generation 777:
+	Average Fitness: 2.62
+	Best Fitness 7
+	Average Fitness of Selected: 2.50505050505051
+Generation 778:
+	Average Fitness: 2.47
+	Best Fitness 9
+	Average Fitness of Selected: 2.62626262626263
+Generation 779:
+	Average Fitness: 2.68
+	Best Fitness 7
+	Average Fitness of Selected: 2.7979797979798
+Generation 780:
+	Average Fitness: 2.59
+	Best Fitness 8
+	Average Fitness of Selected: 2.76767676767677
+Generation 781:
+	Average Fitness: 2.59
+	Best Fitness 8
+	Average Fitness of Selected: 2.65656565656566
+Generation 782:
+	Average Fitness: 2.94
+	Best Fitness 8
+	Average Fitness of Selected: 2.93939393939394
+Generation 783:
+	Average Fitness: 3.03
+	Best Fitness 10
+	Average Fitness of Selected: 2.88888888888889
+Generation 784:
+	Average Fitness: 2.78
+	Best Fitness 8
+	Average Fitness of Selected: 2.56565656565657
+Generation 785:
+	Average Fitness: 2.61
+	Best Fitness 6
+	Average Fitness of Selected: 2.8989898989899
+Generation 786:
+	Average Fitness: 2.74
+	Best Fitness 9
+	Average Fitness of Selected: 2.65656565656566
+Generation 787:
+	Average Fitness: 2.49
+	Best Fitness 6
+	Average Fitness of Selected: 2.7979797979798
+Generation 788:
+	Average Fitness: 3.21
+	Best Fitness 8
+	Average Fitness of Selected: 3.03030303030303
+Generation 789:
+	Average Fitness: 2.85
+	Best Fitness 7
+	Average Fitness of Selected: 3.0
+Generation 790:
+	Average Fitness: 2.92
+	Best Fitness 8
+	Average Fitness of Selected: 2.93939393939394
+Generation 791:
+	Average Fitness: 2.98
+	Best Fitness 7
+	Average Fitness of Selected: 2.63636363636364
+Generation 792:
+	Average Fitness: 2.81
+	Best Fitness 9
+	Average Fitness of Selected: 2.7979797979798
+Generation 793:
+	Average Fitness: 2.57
+	Best Fitness 8
+	Average Fitness of Selected: 2.95959595959596
+Generation 794:
+	Average Fitness: 2.84
+	Best Fitness 8
+	Average Fitness of Selected: 2.65656565656566
+Generation 795:
+	Average Fitness: 2.86
+	Best Fitness 7
+	Average Fitness of Selected: 2.84848484848485
+Generation 796:
+	Average Fitness: 3.05
+	Best Fitness 8
+	Average Fitness of Selected: 3.08080808080808
+Generation 797:
+	Average Fitness: 2.84
+	Best Fitness 7
+	Average Fitness of Selected: 2.64646464646465
+Generation 798:
+	Average Fitness: 2.57
+	Best Fitness 8
+	Average Fitness of Selected: 2.83838383838384
+Generation 799:
+	Average Fitness: 2.86
+	Best Fitness 8
+	Average Fitness of Selected: 2.72727272727273
+Generation 800:
+	Average Fitness: 2.94
+	Best Fitness 7
+	Average Fitness of Selected: 2.56565656565657
+Generation 801:
+	Average Fitness: 2.56
+	Best Fitness 8
+	Average Fitness of Selected: 2.75757575757576
+Generation 802:
+	Average Fitness: 2.39
+	Best Fitness 6
+	Average Fitness of Selected: 2.42424242424242
+Generation 803:
+	Average Fitness: 2.59
+	Best Fitness 9
+	Average Fitness of Selected: 2.70707070707071
+Generation 804:
+	Average Fitness: 2.89
+	Best Fitness 7
+	Average Fitness of Selected: 2.77777777777778
+Generation 805:
+	Average Fitness: 2.66
+	Best Fitness 8
+	Average Fitness of Selected: 2.94949494949495
+Generation 806:
+	Average Fitness: 2.86
+	Best Fitness 9
+	Average Fitness of Selected: 2.53535353535354
+Generation 807:
+	Average Fitness: 2.26
+	Best Fitness 6
+	Average Fitness of Selected: 2.78787878787879
+Generation 808:
+	Average Fitness: 2.62
+	Best Fitness 9
+	Average Fitness of Selected: 3.1010101010101
+Generation 809:
+	Average Fitness: 2.83
+	Best Fitness 7
+	Average Fitness of Selected: 2.66666666666667
+Generation 810:
+	Average Fitness: 2.89
+	Best Fitness 9
+	Average Fitness of Selected: 2.66666666666667
+Generation 811:
+	Average Fitness: 2.51
+	Best Fitness 11
+	Average Fitness of Selected: 2.62626262626263
+Generation 812:
+	Average Fitness: 2.88
+	Best Fitness 8
+	Average Fitness of Selected: 2.71717171717172
+Generation 813:
+	Average Fitness: 2.76
+	Best Fitness 8
+	Average Fitness of Selected: 2.85858585858586
+Generation 814:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.96969696969697
+Generation 815:
+	Average Fitness: 2.65
+	Best Fitness 8
+	Average Fitness of Selected: 2.80808080808081
+Generation 816:
+	Average Fitness: 2.72
+	Best Fitness 7
+	Average Fitness of Selected: 2.53535353535354
+Generation 817:
+	Average Fitness: 2.33
+	Best Fitness 9
+	Average Fitness of Selected: 2.64646464646465
+Generation 818:
+	Average Fitness: 2.84
+	Best Fitness 6
+	Average Fitness of Selected: 2.71717171717172
+Generation 819:
+	Average Fitness: 2.9
+	Best Fitness 7
+	Average Fitness of Selected: 2.75757575757576
+Generation 820:
+	Average Fitness: 2.78
+	Best Fitness 11
+	Average Fitness of Selected: 2.76767676767677
+Generation 821:
+	Average Fitness: 2.69
+	Best Fitness 8
+	Average Fitness of Selected: 2.91919191919192
+Generation 822:
+	Average Fitness: 2.68
+	Best Fitness 8
+	Average Fitness of Selected: 2.68686868686869
+Generation 823:
+	Average Fitness: 2.66
+	Best Fitness 7
+	Average Fitness of Selected: 2.60606060606061
+Generation 824:
+	Average Fitness: 2.39
+	Best Fitness 5
+	Average Fitness of Selected: 2.84848484848485
+Generation 825:
+	Average Fitness: 2.87
+	Best Fitness 7
+	Average Fitness of Selected: 2.78787878787879
+Generation 826:
+	Average Fitness: 2.57
+	Best Fitness 7
+	Average Fitness of Selected: 2.83838383838384
+Generation 827:
+	Average Fitness: 2.68
+	Best Fitness 7
+	Average Fitness of Selected: 3.17171717171717
+Generation 828:
+	Average Fitness: 2.68
+	Best Fitness 8
+	Average Fitness of Selected: 2.98989898989899
+Generation 829:
+	Average Fitness: 2.85
+	Best Fitness 7
+	Average Fitness of Selected: 2.77777777777778
+Generation 830:
+	Average Fitness: 2.73
+	Best Fitness 7
+	Average Fitness of Selected: 2.95959595959596
+Generation 831:
+	Average Fitness: 2.66
+	Best Fitness 9
+	Average Fitness of Selected: 2.74747474747475
+Generation 832:
+	Average Fitness: 2.61
+	Best Fitness 8
+	Average Fitness of Selected: 2.78787878787879
+Generation 833:
+	Average Fitness: 2.54
+	Best Fitness 7
+	Average Fitness of Selected: 2.67676767676768
+Generation 834:
+	Average Fitness: 2.58
+	Best Fitness 7
+	Average Fitness of Selected: 2.83838383838384
+Generation 835:
+	Average Fitness: 2.71
+	Best Fitness 7
+	Average Fitness of Selected: 2.86868686868687
+Generation 836:
+	Average Fitness: 3.01
+	Best Fitness 7
+	Average Fitness of Selected: 3.24242424242424
+Generation 837:
+	Average Fitness: 3.22
+	Best Fitness 9
+	Average Fitness of Selected: 3.01010101010101
+Generation 838:
+	Average Fitness: 2.91
+	Best Fitness 9
+	Average Fitness of Selected: 2.91919191919192
+Generation 839:
+	Average Fitness: 2.83
+	Best Fitness 9
+	Average Fitness of Selected: 2.71717171717172
+Generation 840:
+	Average Fitness: 2.92
+	Best Fitness 9
+	Average Fitness of Selected: 2.71717171717172
+Generation 841:
+	Average Fitness: 2.99
+	Best Fitness 10
+	Average Fitness of Selected: 3.1010101010101
+Generation 842:
+	Average Fitness: 2.94
+	Best Fitness 7
+	Average Fitness of Selected: 2.76767676767677
+Generation 843:
+	Average Fitness: 2.9
+	Best Fitness 7
+	Average Fitness of Selected: 2.93939393939394
+Generation 844:
+	Average Fitness: 2.94
+	Best Fitness 8
+	Average Fitness of Selected: 2.98989898989899
+Generation 845:
+	Average Fitness: 2.73
+	Best Fitness 6
+	Average Fitness of Selected: 2.68686868686869
+Generation 846:
+	Average Fitness: 2.87
+	Best Fitness 8
+	Average Fitness of Selected: 2.96969696969697
+Generation 847:
+	Average Fitness: 2.55
+	Best Fitness 7
+	Average Fitness of Selected: 2.76767676767677
+Generation 848:
+	Average Fitness: 2.62
+	Best Fitness 6
+	Average Fitness of Selected: 2.64646464646465
+Generation 849:
+	Average Fitness: 2.65
+	Best Fitness 9
+	Average Fitness of Selected: 3.13131313131313
+Generation 850:
+	Average Fitness: 2.85
+	Best Fitness 6
+	Average Fitness of Selected: 2.72727272727273
+Generation 851:
+	Average Fitness: 2.69
+	Best Fitness 8
+	Average Fitness of Selected: 3.09090909090909
+Generation 852:
+	Average Fitness: 2.71
+	Best Fitness 7
+	Average Fitness of Selected: 3.27272727272727
+Generation 853:
+	Average Fitness: 2.62
+	Best Fitness 8
+	Average Fitness of Selected: 2.76767676767677
+Generation 854:
+	Average Fitness: 2.47
+	Best Fitness 11
+	Average Fitness of Selected: 3.0
+Generation 855:
+	Average Fitness: 2.62
+	Best Fitness 7
+	Average Fitness of Selected: 2.81818181818182
+Generation 856:
+	Average Fitness: 2.7
+	Best Fitness 9
+	Average Fitness of Selected: 2.8989898989899
+Generation 857:
+	Average Fitness: 2.64
+	Best Fitness 7
+	Average Fitness of Selected: 2.86868686868687
+Generation 858:
+	Average Fitness: 2.65
+	Best Fitness 8
+	Average Fitness of Selected: 3.08080808080808
+Generation 859:
+	Average Fitness: 2.6
+	Best Fitness 8
+	Average Fitness of Selected: 2.62626262626263
+Generation 860:
+	Average Fitness: 3.05
+	Best Fitness 8
+	Average Fitness of Selected: 3.16161616161616
+Generation 861:
+	Average Fitness: 2.68
+	Best Fitness 9
+	Average Fitness of Selected: 2.90909090909091
+Generation 862:
+	Average Fitness: 2.67
+	Best Fitness 8
+	Average Fitness of Selected: 2.82828282828283
+Generation 863:
+	Average Fitness: 2.42
+	Best Fitness 7
+	Average Fitness of Selected: 2.67676767676768
+Generation 864:
+	Average Fitness: 2.71
+	Best Fitness 7
+	Average Fitness of Selected: 2.71717171717172
+Generation 865:
+	Average Fitness: 2.68
+	Best Fitness 7
+	Average Fitness of Selected: 2.91919191919192
+Generation 866:
+	Average Fitness: 2.75
+	Best Fitness 7
+	Average Fitness of Selected: 3.04040404040404
+Generation 867:
+	Average Fitness: 2.56
+	Best Fitness 8
+	Average Fitness of Selected: 3.1010101010101
+Generation 868:
+	Average Fitness: 2.97
+	Best Fitness 7
+	Average Fitness of Selected: 2.88888888888889
+Generation 869:
+	Average Fitness: 2.4
+	Best Fitness 9
+	Average Fitness of Selected: 2.82828282828283
+Generation 870:
+	Average Fitness: 2.93
+	Best Fitness 8
+	Average Fitness of Selected: 2.86868686868687
+Generation 871:
+	Average Fitness: 2.83
+	Best Fitness 6
+	Average Fitness of Selected: 2.73737373737374
+Generation 872:
+	Average Fitness: 2.78
+	Best Fitness 7
+	Average Fitness of Selected: 2.52525252525253
+Generation 873:
+	Average Fitness: 2.87
+	Best Fitness 7
+	Average Fitness of Selected: 2.97979797979798
+Generation 874:
+	Average Fitness: 2.46
+	Best Fitness 7
+	Average Fitness of Selected: 2.66666666666667
+Generation 875:
+	Average Fitness: 2.9
+	Best Fitness 9
+	Average Fitness of Selected: 2.88888888888889
+Generation 876:
+	Average Fitness: 2.78
+	Best Fitness 7
+	Average Fitness of Selected: 3.0
+Generation 877:
+	Average Fitness: 2.71
+	Best Fitness 8
+	Average Fitness of Selected: 2.66666666666667
+Generation 878:
+	Average Fitness: 2.83
+	Best Fitness 8
+	Average Fitness of Selected: 2.71717171717172
+Generation 879:
+	Average Fitness: 2.69
+	Best Fitness 6
+	Average Fitness of Selected: 2.65656565656566
+Generation 880:
+	Average Fitness: 2.82
+	Best Fitness 7
+	Average Fitness of Selected: 2.6969696969697
+Generation 881:
+	Average Fitness: 2.49
+	Best Fitness 6
+	Average Fitness of Selected: 2.71717171717172
+Generation 882:
+	Average Fitness: 2.65
+	Best Fitness 7
+	Average Fitness of Selected: 2.84848484848485
+Generation 883:
+	Average Fitness: 2.22
+	Best Fitness 8
+	Average Fitness of Selected: 2.96969696969697
+Generation 884:
+	Average Fitness: 2.76
+	Best Fitness 8
+	Average Fitness of Selected: 2.76767676767677
+Generation 885:
+	Average Fitness: 2.78
+	Best Fitness 8
+	Average Fitness of Selected: 2.71717171717172
+Generation 886:
+	Average Fitness: 3.05
+	Best Fitness 8
+	Average Fitness of Selected: 2.67676767676768
+Generation 887:
+	Average Fitness: 2.89
+	Best Fitness 8
+	Average Fitness of Selected: 2.94949494949495
+Generation 888:
+	Average Fitness: 2.97
+	Best Fitness 8
+	Average Fitness of Selected: 2.88888888888889
+Generation 889:
+	Average Fitness: 2.86
+	Best Fitness 8
+	Average Fitness of Selected: 2.5959595959596
+Generation 890:
+	Average Fitness: 3.09
+	Best Fitness 9
+	Average Fitness of Selected: 2.66666666666667
+Generation 891:
+	Average Fitness: 2.91
+	Best Fitness 8
+	Average Fitness of Selected: 3.11111111111111
+Generation 892:
+	Average Fitness: 3.04
+	Best Fitness 8
+	Average Fitness of Selected: 2.81818181818182
+Generation 893:
+	Average Fitness: 3.02
+	Best Fitness 8
+	Average Fitness of Selected: 2.95959595959596
+Generation 894:
+	Average Fitness: 2.45
+	Best Fitness 7
+	Average Fitness of Selected: 2.66666666666667
+Generation 895:
+	Average Fitness: 2.67
+	Best Fitness 7
+	Average Fitness of Selected: 2.77777777777778
+Generation 896:
+	Average Fitness: 2.68
+	Best Fitness 7
+	Average Fitness of Selected: 2.93939393939394
+Generation 897:
+	Average Fitness: 2.64
+	Best Fitness 6
+	Average Fitness of Selected: 2.83838383838384
+Generation 898:
+	Average Fitness: 2.77
+	Best Fitness 10
+	Average Fitness of Selected: 2.86868686868687
+Generation 899:
+	Average Fitness: 2.72
+	Best Fitness 8
+	Average Fitness of Selected: 2.54545454545455
+Generation 900:
+	Average Fitness: 2.84
+	Best Fitness 8
+	Average Fitness of Selected: 2.54545454545455
+Generation 901:
+	Average Fitness: 2.5
+	Best Fitness 7
+	Average Fitness of Selected: 2.66666666666667
+Generation 902:
+	Average Fitness: 2.91
+	Best Fitness 8
+	Average Fitness of Selected: 2.54545454545455
+Generation 903:
+	Average Fitness: 2.9
+	Best Fitness 9
+	Average Fitness of Selected: 2.80808080808081
+Generation 904:
+	Average Fitness: 2.94
+	Best Fitness 8
+	Average Fitness of Selected: 2.8989898989899
+Generation 905:
+	Average Fitness: 2.7
+	Best Fitness 8
+	Average Fitness of Selected: 2.83838383838384
+Generation 906:
+	Average Fitness: 2.86
+	Best Fitness 8
+	Average Fitness of Selected: 2.75757575757576
+Generation 907:
+	Average Fitness: 2.56
+	Best Fitness 7
+	Average Fitness of Selected: 2.77777777777778
+Generation 908:
+	Average Fitness: 2.5
+	Best Fitness 7
+	Average Fitness of Selected: 2.94949494949495
+Generation 909:
+	Average Fitness: 2.56
+	Best Fitness 6
+	Average Fitness of Selected: 2.84848484848485
+Generation 910:
+	Average Fitness: 2.83
+	Best Fitness 7
+	Average Fitness of Selected: 2.85858585858586
+Generation 911:
+	Average Fitness: 2.62
+	Best Fitness 8
+	Average Fitness of Selected: 2.86868686868687
+Generation 912:
+	Average Fitness: 2.62
+	Best Fitness 8
+	Average Fitness of Selected: 2.92929292929293
+Generation 913:
+	Average Fitness: 2.89
+	Best Fitness 7
+	Average Fitness of Selected: 2.84848484848485
+Generation 914:
+	Average Fitness: 2.77
+	Best Fitness 8
+	Average Fitness of Selected: 3.05050505050505
+Generation 915:
+	Average Fitness: 2.79
+	Best Fitness 7
+	Average Fitness of Selected: 2.82828282828283
+Generation 916:
+	Average Fitness: 2.84
+	Best Fitness 8
+	Average Fitness of Selected: 3.07070707070707
+Generation 917:
+	Average Fitness: 2.91
+	Best Fitness 8
+	Average Fitness of Selected: 3.1010101010101
+Generation 918:
+	Average Fitness: 2.61
+	Best Fitness 8
+	Average Fitness of Selected: 2.53535353535354
+Generation 919:
+	Average Fitness: 2.82
+	Best Fitness 8
+	Average Fitness of Selected: 2.54545454545455
+Generation 920:
+	Average Fitness: 2.95
+	Best Fitness 8
+	Average Fitness of Selected: 2.62626262626263
+Generation 921:
+	Average Fitness: 2.53
+	Best Fitness 7
+	Average Fitness of Selected: 2.65656565656566
+Generation 922:
+	Average Fitness: 2.69
+	Best Fitness 7
+	Average Fitness of Selected: 2.87878787878788
+Generation 923:
+	Average Fitness: 2.51
+	Best Fitness 7
+	Average Fitness of Selected: 2.7979797979798
+Generation 924:
+	Average Fitness: 2.75
+	Best Fitness 7
+	Average Fitness of Selected: 3.16161616161616
+Generation 925:
+	Average Fitness: 2.98
+	Best Fitness 11
+	Average Fitness of Selected: 2.85858585858586
+Generation 926:
+	Average Fitness: 3.03
+	Best Fitness 7
+	Average Fitness of Selected: 3.0
+Generation 927:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 3.28282828282828
+Generation 928:
+	Average Fitness: 3.11
+	Best Fitness 8
+	Average Fitness of Selected: 3.07070707070707
+Generation 929:
+	Average Fitness: 2.9
+	Best Fitness 8
+	Average Fitness of Selected: 2.84848484848485
+Generation 930:
+	Average Fitness: 3.2
+	Best Fitness 8
+	Average Fitness of Selected: 2.75757575757576
+Generation 931:
+	Average Fitness: 2.77
+	Best Fitness 7
+	Average Fitness of Selected: 2.84848484848485
+Generation 932:
+	Average Fitness: 2.59
+	Best Fitness 8
+	Average Fitness of Selected: 2.74747474747475
+Generation 933:
+	Average Fitness: 2.9
+	Best Fitness 6
+	Average Fitness of Selected: 2.78787878787879
+Generation 934:
+	Average Fitness: 2.64
+	Best Fitness 9
+	Average Fitness of Selected: 2.93939393939394
+Generation 935:
+	Average Fitness: 2.82
+	Best Fitness 8
+	Average Fitness of Selected: 2.66666666666667
+Generation 936:
+	Average Fitness: 3.08
+	Best Fitness 9
+	Average Fitness of Selected: 2.77777777777778
+Generation 937:
+	Average Fitness: 3.08
+	Best Fitness 8
+	Average Fitness of Selected: 3.05050505050505
+Generation 938:
+	Average Fitness: 2.91
+	Best Fitness 9
+	Average Fitness of Selected: 2.93939393939394
+Generation 939:
+	Average Fitness: 2.76
+	Best Fitness 8
+	Average Fitness of Selected: 2.62626262626263
+Generation 940:
+	Average Fitness: 2.87
+	Best Fitness 8
+	Average Fitness of Selected: 2.72727272727273
+Generation 941:
+	Average Fitness: 2.54
+	Best Fitness 7
+	Average Fitness of Selected: 2.57575757575758
+Generation 942:
+	Average Fitness: 2.9
+	Best Fitness 8
+	Average Fitness of Selected: 2.86868686868687
+Generation 943:
+	Average Fitness: 2.57
+	Best Fitness 7
+	Average Fitness of Selected: 3.09090909090909
+Generation 944:
+	Average Fitness: 2.78
+	Best Fitness 7
+	Average Fitness of Selected: 2.87878787878788
+Generation 945:
+	Average Fitness: 2.96
+	Best Fitness 8
+	Average Fitness of Selected: 2.74747474747475
+Generation 946:
+	Average Fitness: 2.7
+	Best Fitness 8
+	Average Fitness of Selected: 2.68686868686869
+Generation 947:
+	Average Fitness: 2.61
+	Best Fitness 7
+	Average Fitness of Selected: 2.91919191919192
+Generation 948:
+	Average Fitness: 2.84
+	Best Fitness 8
+	Average Fitness of Selected: 2.96969696969697
+Generation 949:
+	Average Fitness: 2.96
+	Best Fitness 8
+	Average Fitness of Selected: 3.02020202020202
+Generation 950:
+	Average Fitness: 2.9
+	Best Fitness 9
+	Average Fitness of Selected: 2.92929292929293
+Generation 951:
+	Average Fitness: 2.54
+	Best Fitness 6
+	Average Fitness of Selected: 2.73737373737374
+Generation 952:
+	Average Fitness: 2.9
+	Best Fitness 9
+	Average Fitness of Selected: 2.92929292929293
+Generation 953:
+	Average Fitness: 2.76
+	Best Fitness 10
+	Average Fitness of Selected: 3.01010101010101
+Generation 954:
+	Average Fitness: 2.69
+	Best Fitness 10
+	Average Fitness of Selected: 3.22222222222222
+Generation 955:
+	Average Fitness: 3.03
+	Best Fitness 9
+	Average Fitness of Selected: 2.5959595959596
+Generation 956:
+	Average Fitness: 2.46
+	Best Fitness 7
+	Average Fitness of Selected: 3.01010101010101
+Generation 957:
+	Average Fitness: 2.83
+	Best Fitness 6
+	Average Fitness of Selected: 3.03030303030303
+Generation 958:
+	Average Fitness: 2.9
+	Best Fitness 8
+	Average Fitness of Selected: 2.93939393939394
+Generation 959:
+	Average Fitness: 3.19
+	Best Fitness 7
+	Average Fitness of Selected: 2.76767676767677
+Generation 960:
+	Average Fitness: 2.74
+	Best Fitness 9
+	Average Fitness of Selected: 2.92929292929293
+Generation 961:
+	Average Fitness: 2.88
+	Best Fitness 7
+	Average Fitness of Selected: 3.11111111111111
+Generation 962:
+	Average Fitness: 3.02
+	Best Fitness 9
+	Average Fitness of Selected: 2.47474747474747
+Generation 963:
+	Average Fitness: 3.01
+	Best Fitness 8
+	Average Fitness of Selected: 2.67676767676768
+Generation 964:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.73737373737374
+Generation 965:
+	Average Fitness: 2.63
+	Best Fitness 7
+	Average Fitness of Selected: 2.90909090909091
+Generation 966:
+	Average Fitness: 2.66
+	Best Fitness 6
+	Average Fitness of Selected: 2.78787878787879
+Generation 967:
+	Average Fitness: 3.04
+	Best Fitness 9
+	Average Fitness of Selected: 2.87878787878788
+Generation 968:
+	Average Fitness: 2.74
+	Best Fitness 7
+	Average Fitness of Selected: 2.70707070707071
+Generation 969:
+	Average Fitness: 2.49
+	Best Fitness 6
+	Average Fitness of Selected: 3.13131313131313
+Generation 970:
+	Average Fitness: 2.86
+	Best Fitness 10
+	Average Fitness of Selected: 2.68686868686869
+Generation 971:
+	Average Fitness: 2.81
+	Best Fitness 8
+	Average Fitness of Selected: 3.21212121212121
+Generation 972:
+	Average Fitness: 2.65
+	Best Fitness 7
+	Average Fitness of Selected: 2.86868686868687
+Generation 973:
+	Average Fitness: 2.53
+	Best Fitness 6
+	Average Fitness of Selected: 2.94949494949495
+Generation 974:
+	Average Fitness: 2.52
+	Best Fitness 6
+	Average Fitness of Selected: 2.76767676767677
+Generation 975:
+	Average Fitness: 3.04
+	Best Fitness 8
+	Average Fitness of Selected: 2.80808080808081
+Generation 976:
+	Average Fitness: 2.92
+	Best Fitness 9
+	Average Fitness of Selected: 2.85858585858586
+Generation 977:
+	Average Fitness: 2.68
+	Best Fitness 9
+	Average Fitness of Selected: 2.58585858585859
+Generation 978:
+	Average Fitness: 2.74
+	Best Fitness 8
+	Average Fitness of Selected: 3.08080808080808
+Generation 979:
+	Average Fitness: 2.65
+	Best Fitness 7
+	Average Fitness of Selected: 2.73737373737374
+Generation 980:
+	Average Fitness: 2.68
+	Best Fitness 8
+	Average Fitness of Selected: 2.87878787878788
+Generation 981:
+	Average Fitness: 2.73
+	Best Fitness 10
+	Average Fitness of Selected: 2.97979797979798
+Generation 982:
+	Average Fitness: 2.78
+	Best Fitness 10
+	Average Fitness of Selected: 3.0
+Generation 983:
+	Average Fitness: 2.68
+	Best Fitness 7
+	Average Fitness of Selected: 2.68686868686869
+Generation 984:
+	Average Fitness: 2.7
+	Best Fitness 8
+	Average Fitness of Selected: 2.74747474747475
+Generation 985:
+	Average Fitness: 2.79
+	Best Fitness 7
+	Average Fitness of Selected: 2.66666666666667
+Generation 986:
+	Average Fitness: 2.6
+	Best Fitness 7
+	Average Fitness of Selected: 2.39393939393939
+Generation 987:
+	Average Fitness: 2.9
+	Best Fitness 8
+	Average Fitness of Selected: 2.90909090909091
+Generation 988:
+	Average Fitness: 2.64
+	Best Fitness 7
+	Average Fitness of Selected: 3.05050505050505
+Generation 989:
+	Average Fitness: 2.69
+	Best Fitness 7
+	Average Fitness of Selected: 2.71717171717172
+Generation 990:
+	Average Fitness: 2.6
+	Best Fitness 7
+	Average Fitness of Selected: 2.62626262626263
+Generation 991:
+	Average Fitness: 2.81
+	Best Fitness 9
+	Average Fitness of Selected: 2.8989898989899
+Generation 992:
+	Average Fitness: 2.87
+	Best Fitness 9
+	Average Fitness of Selected: 2.78787878787879
+Generation 993:
+	Average Fitness: 2.88
+	Best Fitness 7
+	Average Fitness of Selected: 2.56565656565657
+Generation 994:
+	Average Fitness: 2.5
+	Best Fitness 7
+	Average Fitness of Selected: 2.86868686868687
+Generation 995:
+	Average Fitness: 2.96
+	Best Fitness 8
+	Average Fitness of Selected: 2.76767676767677
+Generation 996:
+	Average Fitness: 2.84
+	Best Fitness 9
+	Average Fitness of Selected: 2.36363636363636
+Generation 997:
+	Average Fitness: 2.86
+	Best Fitness 8
+	Average Fitness of Selected: 2.57575757575758
+Generation 998:
+	Average Fitness: 2.79
+	Best Fitness 9
+	Average Fitness of Selected: 2.86868686868687
+Generation 999:
+	Average Fitness: 2.69
+	Best Fitness 7
+	Average Fitness of Selected: 2.94949494949495
