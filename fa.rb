@@ -1,5 +1,14 @@
 require 'pp'
 
+class TestClass
+	#I'm testing a web tool
+	#Otherwise ignore this...
+	def initialize(x,y)
+		@x = x
+		@y = y
+	end
+end
+
 def build_random_automata over_lang, max_states, values
 	state_num = (rand max_states) 
 	(0..state_num).map{|cur_state|
